@@ -10,7 +10,9 @@ Edit `ignoreFiles` in `config.toml` to include paths you'd like to exclude from 
 ignoreFiles = [  
     "/content/templates/*",  
     "/content/private/*", 
-    "<your path here>"
+    "/content/moc/*",
+	"/content/PSO2RP/Templates/CharacterTemplate*",
+	
 ]
 ```
 
