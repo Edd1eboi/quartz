@@ -1,4 +1,4 @@
-# 🌱 Quartz
+%%# 🌱 Quartz
 ## v2.0
 
 Simple second brain and [digital garden](https://jzhao.xyz/posts/digital-gardening).
@@ -18,6 +18,6 @@ I was really inspired by [Bianca](https://garden.bianca.digital/) and [Joel](htt
 **The goal of Quartz is to make hosting your own public digital garden free and simple.** You don't even need your own website. Quartz does all of that for you and gives your own little corner of the internet.
 
 ## Get Started
-The entire Quartz documentation is fully hosted using Quartz! To get started, let's visit the main directory.
+The entire Quartz documentation is fully hosted using Quartz! To get started, let's visit the main directory.%%
 
 👉  [Directory](moc/directory.md)
