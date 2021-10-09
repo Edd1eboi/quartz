@@ -8,8 +8,6 @@ ignoreFiles = [
     "/content/templates/*",
     "/content/private/*",
     "/content/moc/*",
-    "/content/PSO2RP/Templates/CharacterTemplate*",
-
 ]
 
 [markup]
