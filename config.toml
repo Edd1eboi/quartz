@@ -26,5 +26,5 @@ ignoreFiles = [
         lineNoStart = 1
         lineNos = true
         lineNumbersInTable = true
-        style = "dracula"
+        style = "atom"
         tabWidth = 4
