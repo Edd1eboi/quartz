@@ -1,8 +1,7 @@
 ---
-title: "{{title}}"
+title: "Clara meets Lumina for the first time"
 ---
 
-# Clara meets Lumina for the first time
 #### Tags:
 - #Story
 - #SugarKitty
