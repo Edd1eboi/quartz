@@ -2,3 +2,5 @@ enableLegend: false
 enableDrag: true
 enableZoom: true
 paths:
+  - "Adventures/Clara"
+  - "Adventures/Nora"
