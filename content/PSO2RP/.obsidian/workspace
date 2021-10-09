@@ -1,0 +1,128 @@
+{
+  "main": {
+    "id": "21d758695db5648c",
+    "type": "split",
+    "children": [
+      {
+        "id": "32c792a254e5c9e4",
+        "type": "leaf",
+        "dimension": 36.61740558292282,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Characters/Limonaverse.md",
+            "mode": "source"
+          }
+        },
+        "group": "869b41d7863e3d7a"
+      },
+      {
+        "id": "5ac8b19e1291b717",
+        "type": "leaf",
+        "dimension": 63.38259441707718,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Characters/Limonaverse.md",
+            "mode": "preview"
+          }
+        },
+        "group": "869b41d7863e3d7a"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "30233a14524eda68",
+    "type": "split",
+    "children": [
+      {
+        "id": "26ebb54e6653d2f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bee9477743cfbe23",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "bd5d0dcbf580f359",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 373
+  },
+  "right": {
+    "id": "8558899f288550aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "389cc859da494b13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f49a9fdc15b132d7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Characters/Limonaverse.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5e50c18818a45ad7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "32c792a254e5c9e4",
+  "lastOpenFiles": [
+    "Characters/Limonaverse.md",
+    "Adventures/Nora/Meeting Anora Casan, Benedict Varden, and Custodian..md",
+    "Characters/Custodian.md",
+    "Characters/Benedict Varden.md",
+    "Characters/Anora Casan.md",
+    "Places/Sugar Kitty.md",
+    "Places/Halpha.md",
+    "Characters/Yazad A. Heydar.md",
+    "Adventures/Clara/Meeting Yazad and Yokai.md",
+    "Adventures/Clara/Meeting Lumina.md"
+  ]
+}

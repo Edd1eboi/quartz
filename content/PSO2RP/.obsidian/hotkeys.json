@@ -1,0 +1,19 @@
+{
+  "obsidian-admonition:insert-admonition": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Z"
+    }
+  ],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "Insert"
+    }
+  ]
+}

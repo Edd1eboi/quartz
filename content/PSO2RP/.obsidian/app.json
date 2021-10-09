@@ -1,0 +1,7 @@
+{
+  "useMarkdownLinks": true,
+  "promptDelete": false,
+  "foldIndent": true,
+  "newLinkFormat": "absolute",
+  "alwaysUpdateLinks": true
+}
