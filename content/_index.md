@@ -6,7 +6,7 @@ Some adventures:
 	- [Meeting Yazad and Yokai](Adventures/Clara/MeetingYazadandYokai.md)
 
 
-- **[NoraHonora](Characters/NoraHonora.md):**
-	- [AnotherdayatSugarKitty](Adventures/Nora/AnotherdayatSugarKitty.md)
-	- [AnotherdayatSugarKittyThePrequel](Adventures/Nora/AnotherdayatSugarKittyThePrequel.md)
-	- [MeetingAnoraCasanBenedictVardenandCustodian](Adventures/Nora/MeetingAnoraCasanBenedictVardenandCustodian.md)
+- **[Nora Honora](Characters/NoraHonora.md):**
+	- [Another day at Sugar Kitty](Adventures/Nora/AnotherdayatSugarKitty.md)
+	- [Another day at Sugar Kitty The Prequel](Adventures/Nora/AnotherdayatSugarKittyThePrequel.md)
+	- [Meeting Anora Casan, Benedict Varden, and Custodian](Adventures/Nora/MeetingAnoraCasanBenedictVardenandCustodian.md)
