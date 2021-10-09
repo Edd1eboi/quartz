@@ -1,6 +1,6 @@
 ```markdown
 
-title: "Anora Casan"
+title: "Equinox"
 
 ```
 
