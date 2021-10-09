@@ -1,8 +1,6 @@
-```markdown
-
-title: "Meeting Lumina"
-
-```
+---
+title: "{{title}}"
+---
 
 # Clara meets Lumina for the first time
 #### Tags:
