@@ -11,7 +11,7 @@ Let's get to business and get you started!
 - 🔗 [Linking with an Obsidian Vault](notes/obsidian.md)
 - 🎨 [Customizing and Styling Quartz](notes/config.md)
 - 🌍 [Hosting Quartz online!](notes/hosting.md)
-- [Nora Honora](PSO2RP/Characters/Nora%20Honora.md)
+- [NoraHonora](PSO2RP/Characters/NoraHonora.md)
 
 
 Not convinced yet? Look at some [community digital gardens](moc/showcase) built with Quartz!

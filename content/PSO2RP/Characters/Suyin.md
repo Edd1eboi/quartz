@@ -10,4 +10,4 @@ title: "Suyin"
 #### Tags:
 - #Character
 
-Soygirl is the sister of [Yazad A. Heydar](Characters/Yazad%20A.%20Heydar.md)
+Soygirl is the sister of [YazadAHeydar](PSO2RP/Characters/YazadAHeydar.md)

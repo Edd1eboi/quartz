@@ -4,7 +4,7 @@ title: "Meeting Yazad Yokai"
 
 ```
 
-# **[Clara](Characters/Clara.md)** meets [Yazad](Characters/Yazad%20A.%20Heydar.md) and **[Yokai](Characters/Yokai.md)** for the first time
+# **[Clara](Characters/Clara.md)** meets [Yazad](PSO2RP/Characters/YazadAHeydar.md) and **[Yokai](Characters/Yokai.md)** for the first time
 #### Tags:
 - #Story
 - #SugarKitty
@@ -15,81 +15,81 @@ title: "Meeting Yazad Yokai"
 
 #### **[Clara](Characters/Clara.md):** goes into Sugar Kitty and stands by the bar whereupon she's greeted.
 
-**[Yazad](Characters/Yazad%20A.%20Heydar.md):**	"Hello, and welcome to Sugar Kitty~"
+**[Yazad](PSO2RP/Characters/YazadAHeydar.md):**	"Hello, and welcome to Sugar Kitty~"
 
 **[Clara](Characters/Clara.md):**	"Eurh... hi..."
 
-**[Yazad](Characters/Yazad%20A.%20Heydar.md):**	"Make yourself comfortable, madam. I do not recall seeing you here before~"
-**[Yazad](Characters/Yazad%20A.%20Heydar.md):**	"Eh...?"
+**[Yazad](PSO2RP/Characters/YazadAHeydar.md):**	"Make yourself comfortable, madam. I do not recall seeing you here before~"
+**[Yazad](PSO2RP/Characters/YazadAHeydar.md):**	"Eh...?"
 
 **[Clara](Characters/Clara.md):**	"...new..."
 **[Clara](Characters/Clara.md):**	"...new... here..."
 
-**[Yazad](Characters/Yazad%20A.%20Heydar.md):**	"Oh, I see. We have all been there at one point, fret not~"
+**[Yazad](PSO2RP/Characters/YazadAHeydar.md):**	"Oh, I see. We have all been there at one point, fret not~"
 
 **[Clara](Characters/Clara.md):**	"Mm... uh... tea..."
 
-**[Yazad](Characters/Yazad%20A.%20Heydar.md):**	"Certainly, give me a moment~"
+**[Yazad](PSO2RP/Characters/YazadAHeydar.md):**	"Certainly, give me a moment~"
 
 **[Clara](Characters/Clara.md):**	"...thanks..." she whispered audibly enough.
 
-**[Yazad](Characters/Yazad%20A.%20Heydar.md):**	*[Yazad](Characters/Yazad%20A.%20Heydar.md) comes back with a fragrant cup of tea on a tray. Next to it sat a plate with three mini tarts.*
-**[Yazad](Characters/Yazad%20A.%20Heydar.md):**	"There you go, new madam~ Welcome to Central City. May I have your name?"
+**[Yazad](PSO2RP/Characters/YazadAHeydar.md):**	*[Yazad](PSO2RP/Characters/YazadAHeydar.md) comes back with a fragrant cup of tea on a tray. Next to it sat a plate with three mini tarts.*
+**[Yazad](PSO2RP/Characters/YazadAHeydar.md):**	"There you go, new madam~ Welcome to Central City. May I have your name?"
 
 **[Clara](Characters/Clara.md):**	"...thank... you..." She looked down, avoiding eye contact: "Eurh.... **[Clara](Characters/Clara.md):**."
 
-**[Yazad](Characters/Yazad%20A.%20Heydar.md):**	*[Yazad](Characters/Yazad%20A.%20Heydar.md): takes a step back to give the seemingly shy girl her space* "Madam *[Clara](Characters/Clara.md):*, a pleasure to meet you~"
+**[Yazad](PSO2RP/Characters/YazadAHeydar.md):**	*[Yazad](PSO2RP/Characters/YazadAHeydar.md): takes a step back to give the seemingly shy girl her space* "Madam *[Clara](Characters/Clara.md):*, a pleasure to meet you~"
 
-**[Yazad](Characters/Yazad%20A.%20Heydar.md):**	"I am *[Yazad](Characters/Yazad%20A.%20Heydar.md):*."
+**[Yazad](PSO2RP/Characters/YazadAHeydar.md):**	"I am *[Yazad](PSO2RP/Characters/YazadAHeydar.md):*."
 
-**[Clara](Characters/Clara.md):**	"...no..." She attempted to joke: "...you're, uhhh.... short. Not **[Yazad](Characters/Yazad%20A.%20Heydar.md):**."
+**[Clara](Characters/Clara.md):**	"...no..." She attempted to joke: "...you're, uhhh.... short. Not **[Yazad](PSO2RP/Characters/YazadAHeydar.md):**."
 
-**[Yazad](Characters/Yazad%20A.%20Heydar.md):**	*It took a moment for *[Yazad](Characters/Yazad%20A.%20Heydar.md)* to process the supposed jest. When realization set in, he chuckles lightly*
-**[Yazad](Characters/Yazad%20A.%20Heydar.md):**	"Well, you are not wrong. Although I can still be both, right~?"
+**[Yazad](PSO2RP/Characters/YazadAHeydar.md):**	*It took a moment for *[Yazad](PSO2RP/Characters/YazadAHeydar.md)* to process the supposed jest. When realization set in, he chuckles lightly*
+**[Yazad](PSO2RP/Characters/YazadAHeydar.md):**	"Well, you are not wrong. Although I can still be both, right~?"
 
 **[Clara](Characters/Clara.md):**	"...that is true I suppose..." She smiled, still avoiding eye-contact.
 
-**[Yazad](Characters/Yazad%20A.%20Heydar.md):**	***[Yazad](Characters/Yazad%20A.%20Heydar.md):** reaches out to give the girl's head a little pat* "There, there. I know that being somewhere completely new and foreign is a cause for worry, but you are safe here~"
+**[Yazad](PSO2RP/Characters/YazadAHeydar.md):**	***[Yazad](PSO2RP/Characters/YazadAHeydar.md):** reaches out to give the girl's head a little pat* "There, there. I know that being somewhere completely new and foreign is a cause for worry, but you are safe here~"
 
 **[Clara](Characters/Clara.md):**	"I... am glad."
 
-**[Yazad](Characters/Yazad%20A.%20Heydar.md):**	"The people of Central City are lovely enough, you will be making friendships in no time~"
+**[Yazad](PSO2RP/Characters/YazadAHeydar.md):**	"The people of Central City are lovely enough, you will be making friendships in no time~"
 
-**[Yazad](Characters/Yazad%20A.%20Heydar.md):**	"I wish you could have met Nora, she would bring you some joy for certain. Come to think of it, where is she?"
+**[Yazad](PSO2RP/Characters/YazadAHeydar.md):**	"I wish you could have met Nora, she would bring you some joy for certain. Come to think of it, where is she?"
 
 **[Clara](Characters/Clara.md):**	"I made... one friend... easy to talk to..."
 
-**[Yazad](Characters/Yazad%20A.%20Heydar.md):**	"Oh? Who is that friend, if you do not mind me asking~?"
+**[Yazad](PSO2RP/Characters/YazadAHeydar.md):**	"Oh? Who is that friend, if you do not mind me asking~?"
 
 **[Clara](Characters/Clara.md):**	"Miss Lumina..."
 
-**[Yazad](Characters/Yazad%20A.%20Heydar.md):**	"Oh, bless her sweet heart~ Madam Lumina is such a kind and sensble woman."
+**[Yazad](PSO2RP/Characters/YazadAHeydar.md):**	"Oh, bless her sweet heart~ Madam Lumina is such a kind and sensble woman."
 
 **[Clara](Characters/Clara.md):**	"She has a good aura."
 
-**[Yazad](Characters/Yazad%20A.%20Heydar.md):**	"This is such an interesting discription."
+**[Yazad](PSO2RP/Characters/YazadAHeydar.md):**	"This is such an interesting discription."
 
 **[Clara](Characters/Clara.md):**	"Her photon field has a nice color..."
 
-**[Yazad](Characters/Yazad%20A.%20Heydar.md):**	"Goodness, you can see that?"
+**[Yazad](PSO2RP/Characters/YazadAHeydar.md):**	"Goodness, you can see that?"
 
 **[Clara](Characters/Clara.md):**	"Essentially."
 
-**[Yazad](Characters/Yazad%20A.%20Heydar.md):**	"Now I am curious, what kind of aura would you say that I have?"
+**[Yazad](PSO2RP/Characters/YazadAHeydar.md):**	"Now I am curious, what kind of aura would you say that I have?"
 
 **[Clara](Characters/Clara.md):**	"Hm..."
 **[Clara](Characters/Clara.md):**	"It's not as visible as Miss Lumina's."
 
-**[Yazad](Characters/Yazad%20A.%20Heydar.md):**	"How intriguing~"
+**[Yazad](PSO2RP/Characters/YazadAHeydar.md):**	"How intriguing~"
 
-**[Clara](Characters/Clara.md):**	**[Clara](Characters/Clara.md):**'s head tilted as she examined **[Yazad](Characters/Yazad%20A.%20Heydar.md):**'s figure: "I'd say a cloudy, pink-ish color?"
+**[Clara](Characters/Clara.md):**	**[Clara](Characters/Clara.md):**'s head tilted as she examined **[Yazad](PSO2RP/Characters/YazadAHeydar.md):**'s figure: "I'd say a cloudy, pink-ish color?"
 **[Clara](Characters/Clara.md):**	"Those red field waves above us are similar to it, though a different color."
 
-**[Yazad](Characters/Yazad%20A.%20Heydar.md):**	***[Yazad](Characters/Yazad%20A.%20Heydar.md):** smoothes his hand over his body and giggles* "I shall take your word for it, since I lack the gift to see it~"
+**[Yazad](PSO2RP/Characters/YazadAHeydar.md):**	***[Yazad](PSO2RP/Characters/YazadAHeydar.md):** smoothes his hand over his body and giggles* "I shall take your word for it, since I lack the gift to see it~"
 
 **[Clara](Characters/Clara.md):**	"Hm hm."
 
-**[Yazad](Characters/Yazad%20A.%20Heydar.md):**	"I shall let you enjoy your tea now, duty calls so I must depart momentarily."
+**[Yazad](PSO2RP/Characters/YazadAHeydar.md):**	"I shall let you enjoy your tea now, duty calls so I must depart momentarily."
 
 **[Clara](Characters/Clara.md):**	She grabbed the cup from the table and took a sip: "Thank you for the tea."
 
@@ -98,7 +98,7 @@ title: "Meeting Yazad Yokai"
 **[Clara](Characters/Clara.md):**	"Mm... good tea..."
 D.Va	/la crouch
 Lumi	/la sit1 
-**[Yazad](Characters/Yazad%20A.%20Heydar.md):**	"Alright, I have to finish this mining rig defense mission and then come back and figure out dinner" ***[Yazad](Characters/Yazad%20A.%20Heydar.md):** mutters*
+**[Yazad](PSO2RP/Characters/YazadAHeydar.md):**	"Alright, I have to finish this mining rig defense mission and then come back and figure out dinner" ***[Yazad](PSO2RP/Characters/YazadAHeydar.md):** mutters*
 Lumi	/la sit1 
 Lumi	/la sit2 
 Lumi	/la sit3 
@@ -160,27 +160,27 @@ SYXG98	Oooh I didn't know
 **[Clara](Characters/Clara.md):**	"Mm, no. It's just that you haven't got a very strong aura."
 Eddie_	:)
 **[Yokai](Characters/Yokai.md):**	"Ah.. you can see photons?" *She asked curiously* "Intruiging. Hm.. I guess the reasoning would probably be my...
-**[Yazad](Characters/Yazad%20A.%20Heydar.md):**	"Ah, Madam **[Clara](Characters/Clara.md):**, I see that you already made a new friend~"
+**[Yazad](PSO2RP/Characters/YazadAHeydar.md):**	"Ah, Madam **[Clara](Characters/Clara.md):**, I see that you already made a new friend~"
 **[Yokai](Characters/Yokai.md):**	Previous life's profession.. if one would call such barbaric acts a profession.."
 **[Clara](Characters/Clara.md):**	"Mm, yes, **[Yokai](Characters/Yokai.md):** friend."
 **[Clara](Characters/Clara.md):**	"Barbaric acts?"
 **[Yokai](Characters/Yokai.md):**	*The hi cast displayed a curtious nod* "Greeting ma'am"
-**[Yazad](Characters/Yazad%20A.%20Heydar.md):**	"Greetings, Madam **[Yokai](Characters/Yokai.md):**. And welcome to Sugar Kitty~ What is this about barbaric acts?"
-**[Yazad](Characters/Yazad%20A.%20Heydar.md):**	/la deepbow 
+**[Yazad](PSO2RP/Characters/YazadAHeydar.md):**	"Greetings, Madam **[Yokai](Characters/Yokai.md):**. And welcome to Sugar Kitty~ What is this about barbaric acts?"
+**[Yazad](PSO2RP/Characters/YazadAHeydar.md):**	/la deepbow 
 **[Yokai](Characters/Yokai.md):**	"Let's leave the past in the past.. Memories are fuzzy, but still, not in the least unpleasant.."
 **[Clara](Characters/Clara.md):**	"I see."
-**[Yazad](Characters/Yazad%20A.%20Heydar.md):**	"Greetings~"
+**[Yazad](PSO2RP/Characters/YazadAHeydar.md):**	"Greetings~"
 SYXG98	is there a common canon or everyone just playing to the spirit of the gameworld?
 Eddie_	basically just follow the set lore from the game and it's probably fine
 **[Yokai](Characters/Yokai.md):**	"As I've said to miss **[Clara](Characters/Clara.md):**, my name is Model type: Yggdrasil, onsite Kill Artificial intelligence. Do with that information
 **[Yokai](Characters/Yokai.md):**	as you will.."
 Syx	*speaks in a distinctly high voice* "Hello!"
 **[Clara](Characters/Clara.md):**	"Does that mean you're not a carbon-based creature?"
-**[Yazad](Characters/Yazad%20A.%20Heydar.md):**	"Awh, look at you~ Welcome to Sugar Kitty. What is your name?"
+**[Yazad](PSO2RP/Characters/YazadAHeydar.md):**	"Awh, look at you~ Welcome to Sugar Kitty. What is your name?"
 Syx	*with an emphatic gesture the cast annouces* "I'm Kobun!!"
 **[Yokai](Characters/Yokai.md):**	"Im a Hi-cast. A robotic sentient automata, built for specific tasks and duties. Apparently, I was a tad..
 **[Yokai](Characters/Yokai.md):**	Defective, or as my creators noted. model number 00001-A, a prototype."
-**[Yazad](Characters/Yazad%20A.%20Heydar.md):**	"Sir Kobun, then? How adorably quaint~ "
+**[Yazad](PSO2RP/Characters/YazadAHeydar.md):**	"Sir Kobun, then? How adorably quaint~ "
 **[Yokai](Characters/Yokai.md):**	"The first model would surely have a few bugs" *She chuckled*
 Syx	/la salute 
 **[Clara](Characters/Clara.md):**	"That would explain why you're not outputting a very strong photon field."
@@ -189,61 +189,61 @@ Reagen	/la greet
 Syx	*wiggles in place for a few moments* "Who are you!!"
 **[Yokai](Characters/Yokai.md):**	"..yes, lets leave it at that." *she warily smiled*
 **[Clara](Characters/Clara.md):**	"I must ask though, what were you made for?"
-**[Yazad](Characters/Yazad%20A.%20Heydar.md):**	"I am **[Yazad](Characters/Yazad%20A.%20Heydar.md):**, a waiter in this establishment~ WHat may I serve you today?"
+**[Yazad](PSO2RP/Characters/YazadAHeydar.md):**	"I am **[Yazad](PSO2RP/Characters/YazadAHeydar.md):**, a waiter in this establishment~ WHat may I serve you today?"
 Syx	*answers like he is on a trivia show* "Meat!!"
 Syx	/la yes 
 **[Yokai](Characters/Yokai.md):**	"A lady must have some secrets worth keeping" *She teased* "And of you? I know not where you came?"
 **[Clara](Characters/Clara.md):**	"Space."
 Reagen	/la sit1 
-**[Yazad](Characters/Yazad%20A.%20Heydar.md):**	***[Yazad](Characters/Yazad%20A.%20Heydar.md):** chuckles behind his sleeve* "A more common order than you think in a cafe, so I shall get you that in a moment~"
+**[Yazad](PSO2RP/Characters/YazadAHeydar.md):**	***[Yazad](PSO2RP/Characters/YazadAHeydar.md):** chuckles behind his sleeve* "A more common order than you think in a cafe, so I shall get you that in a moment~"
 **[Yokai](Characters/Yokai.md):**	"That's a broad place to come from.."
 Reagen	*Not wishing to disturb thier conversation, he returns to his seat he was earlier since he had not gotten reply*
-**[Yazad](Characters/Yazad%20A.%20Heydar.md):**	/cla bbq 
+**[Yazad](PSO2RP/Characters/YazadAHeydar.md):**	/cla bbq 
 **[Clara](Characters/Clara.md):**	"That is the predicament, I have no clue where I'm from."
 Syx	*impaitently taps his hands on the counter*
-**[Yazad](Characters/Yazad%20A.%20Heydar.md):**	***[Yazad](Characters/Yazad%20A.%20Heydar.md):** notices the large form and waves* "Good day, Sir Reagen~ It has been a while."
+**[Yazad](PSO2RP/Characters/YazadAHeydar.md):**	***[Yazad](PSO2RP/Characters/YazadAHeydar.md):** notices the large form and waves* "Good day, Sir Reagen~ It has been a while."
 **[Yokai](Characters/Yokai.md):**	"Oh apologies Sir, I've been quite rude to not give a reply. How was the hunt?"
-**[Yazad](Characters/Yazad%20A.%20Heydar.md):**	*With deft hands, **[Yazad](Characters/Yazad%20A.%20Heydar.md):** produces a platter from below the counter and stacks the grilled skewers neatly on it*
-**[Yazad](Characters/Yazad%20A.%20Heydar.md):**	"Meat for Sir Kobun, as ordered~"
+**[Yazad](PSO2RP/Characters/YazadAHeydar.md):**	*With deft hands, **[Yazad](PSO2RP/Characters/YazadAHeydar.md):** produces a platter from below the counter and stacks the grilled skewers neatly on it*
+**[Yazad](PSO2RP/Characters/YazadAHeydar.md):**	"Meat for Sir Kobun, as ordered~"
 Reagen	Hm? *took him a moment to recognize was talking to him, he looks over his shoulder*  OH twas fair enough. 
 Syx	/toge "Arigato gozaimasu!!"
 Syx	/la darkblast4 
-**[Yazad](Characters/Yazad%20A.%20Heydar.md):**	***[Yazad](Characters/Yazad%20A.%20Heydar.md):** flinches slightly at the sudden exclamation, but then he smiles. It looks like Kobun was happy*
+**[Yazad](PSO2RP/Characters/YazadAHeydar.md):**	***[Yazad](PSO2RP/Characters/YazadAHeydar.md):** flinches slightly at the sudden exclamation, but then he smiles. It looks like Kobun was happy*
 **[Yokai](Characters/Yokai.md):**	Were great trophies ascertained? I've not known the beasts of this land quite yet."
 Syx	*somehow, despite not having a mouth, the food neatly phases through his face as if it was teleporting*
 **[Yokai](Characters/Yokai.md):**	*Speaking to *[Clara](Characters/Clara.md)* "That is quite a predicament.. but maybe its for the best? A new life with no strings attached"
 Reagen	Twas.. I suppose fairly decent, nothing to cry home about tis sort to say.  Twas better than the usual I suffice.
-**[Yazad](Characters/Yazad%20A.%20Heydar.md):**	"This is a rather...interesting method of eating. Would you mind me asking what you are, Sir Kobun~?"
+**[Yazad](PSO2RP/Characters/YazadAHeydar.md):**	"This is a rather...interesting method of eating. Would you mind me asking what you are, Sir Kobun~?"
 Syx	"OoOOoOOooooh~!!" 
 **[Clara](Characters/Clara.md):**	Responding to **[Yokai](Characters/Yokai.md):**: "A new life with no strings attached is only for the best when you know what you lose."
 Syx	*tilts his head* "Is it not obvious???"
 **[Yokai](Characters/Yokai.md):**	*Leaning back in her chair* "I think I know what I'm losing, and if none of that followed me here, I'd be all the happier"
-**[Yazad](Characters/Yazad%20A.%20Heydar.md):**	"After some time in Central City, it is rather difficult to make assumptions about the origins of people~"
+**[Yazad](PSO2RP/Characters/YazadAHeydar.md):**	"After some time in Central City, it is rather difficult to make assumptions about the origins of people~"
 Syx	*does a dainty twirl, showing off his physique* "I'm a dragon!"
 Syx	/la laugh 
 Syx	/la sexy 
 **[Clara](Characters/Clara.md):**	"True, but that's anecdotal."
 Syx	/la proudleg 
 Syx	/la foldarms 
-**[Yazad](Characters/Yazad%20A.%20Heydar.md):**	"A dragon, you say? Goodness gracious, and an adorable one as well. Truly, Central City is a place for all sorts of
-**[Yazad](Characters/Yazad%20A.%20Heydar.md):**	People."
+**[Yazad](PSO2RP/Characters/YazadAHeydar.md):**	"A dragon, you say? Goodness gracious, and an adorable one as well. Truly, Central City is a place for all sorts of
+**[Yazad](PSO2RP/Characters/YazadAHeydar.md):**	People."
 **[Yokai](Characters/Yokai.md):**	"So it is. Anywho. I still know not of this land. What is.. all of this?"
 **[Clara](Characters/Clara.md):**	"I'm not quite sure."
 **[Clara](Characters/Clara.md):**	"I only came here today."
 Syx	*makes pleasant sounding squeal* "Aayeeee~~!!" 
 **[Yokai](Characters/Yokai.md):**	"It seems, pleasant enough.."
 **[Clara](Characters/Clara.md):**	"That it is."
-**[Yazad](Characters/Yazad%20A.%20Heydar.md):**	***[Yazad](Characters/Yazad%20A.%20Heydar.md):** reaches over to attempt a pet on Kobun's head*
+**[Yazad](PSO2RP/Characters/YazadAHeydar.md):**	***[Yazad](PSO2RP/Characters/YazadAHeydar.md):** reaches over to attempt a pet on Kobun's head*
 **[Yokai](Characters/Yokai.md):**	"By the way, compliments to the chef, the tart was divine"
 Syx	*acknowledges with a distinct sounding robotic huff, bowing his head for them to reach* "Aaaa~"
-**[Clara](Characters/Clara.md):**	"I agree. The chef is the short man over there." She said and pointed to **[Yazad](Characters/Yazad%20A.%20Heydar.md):**.
-**[Yazad](Characters/Yazad%20A.%20Heydar.md):**	*Happily, **[Yazad](Characters/Yazad%20A.%20Heydar.md):** goes about petting and stroking Kobun's head gently, careful not to get too eager*
+**[Clara](Characters/Clara.md):**	"I agree. The chef is the short man over there." She said and pointed to **[Yazad](PSO2RP/Characters/YazadAHeydar.md):**.
+**[Yazad](PSO2RP/Characters/YazadAHeydar.md):**	*Happily, **[Yazad](PSO2RP/Characters/YazadAHeydar.md):** goes about petting and stroking Kobun's head gently, careful not to get too eager*
 Syx	*delighted robotic squeals echo about, his robotic wings stretch out and flap excitedly*
 **[Yokai](Characters/Yokai.md):**	*A short pause* "Might I ask.. what do you plan on doing now? with no memories on a strange world."
 **[Yokai](Characters/Yokai.md):**	"It seems you have abilities that might be of use to the local militia, if they exist in formality"
 **[Clara](Characters/Clara.md):**	"Militia... oh! The ARKs defenders? I've enrolled there as a fighter."
-**[Yazad](Characters/Yazad%20A.%20Heydar.md):**	"Oh, goodness gracious. The weekly grocery sale is about to take place. I shall excuse myself for now~"
-Syx	"Bye *[Yazad](Characters/Yazad%20A.%20Heydar.md)*!!!"
+**[Yazad](PSO2RP/Characters/YazadAHeydar.md):**	"Oh, goodness gracious. The weekly grocery sale is about to take place. I shall excuse myself for now~"
+Syx	"Bye *[Yazad](PSO2RP/Characters/YazadAHeydar.md)*!!!"
 **[Yokai](Characters/Yokai.md):**	"..I'm sorry could you repeat that? the 'what' defenders?" *she repeated, slightly concerned*
 **[Clara](Characters/Clara.md):**	"ARKs."
 **[Yokai](Characters/Yokai.md):**	"..." *A pause then a sigh* "drat."

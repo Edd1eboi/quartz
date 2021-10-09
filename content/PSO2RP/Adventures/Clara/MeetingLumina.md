@@ -93,7 +93,7 @@ title: "Meeting Lumina"
 **[Clara](Characters/Clara.md):**	*She ran off to hide behind a tree:* "You've, uh.. got this...!"
 
 <p align="center">
-	<img width="600" src="C:\Users\edvin\Documents\ObsidianVaults\PSO2RP\Images\Clara\Clara1.png">
+	<img width="600" src="\PSO2RP\Images\Clara\Clara1.png">
 </p>
 
 **[Lumina](Characters/Lumina.md):**	"What the Hell are..." *[Lumina](Characters/Lumina.md) frowned at the woman, and scoffed.* "Two shrimp spring roll plates and two teas."
