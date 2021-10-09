@@ -1,3 +1,9 @@
+```markdown
+
+title: "Another day at Sugar Kitty"
+
+```
+
 # Another day at [Sugar Kitty](Places/Sugar%20Kitty.md). #1 
 #### Tags:
 - #Story

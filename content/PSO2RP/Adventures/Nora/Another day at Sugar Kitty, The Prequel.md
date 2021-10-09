@@ -1,3 +1,8 @@
+```markdown
+
+title: "Another day at Sugar Kitty, The Prequel"
+
+```
 # Another day at [Sugar Kitty](Places/Sugar%20Kitty.md) - prequel #1
 
 #### Tags:

@@ -1,3 +1,9 @@
+```markdown
+
+title: "Anora Casan"
+
+```
+
 <h1 align="center" style="color: #FFACEC; font-family:pso2_font; font-size:50px;">Nora Honora <img width="50px" src="file:///C:\Users\edvin\Documents\ObsidianVaults\PSO2RP\Images\Nora\littelnora.png"></h1>
 <h2 align="center">Nora Honora</h2>
 <p align="center">

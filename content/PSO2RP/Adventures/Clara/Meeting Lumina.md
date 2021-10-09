@@ -1,3 +1,9 @@
+```markdown
+
+title: "Meeting Lumina"
+
+```
+
 # Clara meets Lumina for the first time
 #### Tags:
 - #Story

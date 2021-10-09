@@ -1,3 +1,8 @@
+```markdown
+
+title: "Meeting Anora Casan, Benedict Varden, and Custodian."
+
+```
 # Meeting **[Anora Casan](Characters/Anora%20Casan.md)**  and [Benedict Varden](Characters/Benedict%20Varden.md)
 #### Tags:
 - #Story

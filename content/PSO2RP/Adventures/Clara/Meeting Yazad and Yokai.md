@@ -1,3 +1,9 @@
+```markdown
+
+title: "Meeting Yazad Yokai"
+
+```
+
 # **[Clara](Characters/Clara.md)** meets [Yazad](Characters/Yazad%20A.%20Heydar.md) and **[Yokai](Characters/Yokai.md)** for the first time
 #### Tags:
 - #Story
