@@ -1,3 +1,7 @@
+---
+title: " "
+---
+
 <h1  align="center" style="color: #ffffff; font-family:pso2_font; font-size:50px;">Equinox</h1>
 <h1 align="center">Equinox</h1></div>
 

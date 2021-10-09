@@ -1,3 +1,7 @@
+---
+title: " "
+---
+
 <h1 align="center" style="color: --insert hex color here--; font-family:pso2_font; font-size:50px;">Xushin Phoenix</h1>
 <h1 align="center">Xushin Phoenix</h1>
 

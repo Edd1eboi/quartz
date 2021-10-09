@@ -1,3 +1,7 @@
+---
+title: " "
+---
+
 <h1 align="center" style="color: #B871FF; font-family:pso2_font; font-size:50px;">Gaia Stellaria</h1>
 <h1 align="center">Gaia Stellaria</h1>
 
