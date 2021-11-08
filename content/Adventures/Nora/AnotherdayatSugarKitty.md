@@ -16,7 +16,8 @@ title: "Another day at SugarKitty. #1"
 </p>
 
 
-#### *Nora saw Yazad approaching and waved.* Heya Jazzywazzy!
+#### *Nora saw Yazad approaching and waved.*
+**[Nora](Characters/NoraHonora.md):** "Heya Jazzywazzy!"
 
 **[Yazad](Characters/YazadAHeydar.md):**	Hello, [Nora](Characters/NoraHonora.md)~ You are looking rather radiant today~
 
@@ -42,7 +43,7 @@ title: "Another day at SugarKitty. #1"
 
 **[Nora](Characters/NoraHonora.md):**	"Anything happen while I was asleep?~"
 
-**[Yazad](Characters/YazadAHeydar.md):**	"Well, there is always quite a bit going on. A shy but sweet girl visited yesterday, along with 
+**[Yazad](Characters/YazadAHeydar.md):**	"Well, there is always quite a bit going on. A shy but sweet girl visited yesterday, along with
 an adorable little dragon~"
 
 **[Nora](Characters/NoraHonora.md):**	"A- a dragon?"
@@ -53,12 +54,12 @@ an adorable little dragon~"
 
 **[Nora](Characters/NoraHonora.md):**	"What if he set the cafe on fire?"
 
-**[Yazad](Characters/YazadAHeydar.md):**	"Is it? I thought that he was cute. He was also very friendly. Now that I think about it, I do not 
+**[Yazad](Characters/YazadAHeydar.md):**	"Is it? I thought that he was cute. He was also very friendly. Now that I think about it, I do not
 know if he can even produce any fire."
 
 **[Nora](Characters/NoraHonora.md):**	"Glad he's nice atleast."
 
-**[Yazad](Characters/YazadAHeydar.md):**	"Most people in the city are, bless them. I cannot say that I have met anyone who is not 
+**[Yazad](Characters/YazadAHeydar.md):**	"Most people in the city are, bless them. I cannot say that I have met anyone who is not
 nice."
 
 **[Nora](Characters/NoraHonora.md):**	"Yeah~"
@@ -85,8 +86,8 @@ nice."
 
 **[Nora](Characters/NoraHonora.md):**	"I agree. I do wonder how I got my cat-features sometimes."
 
-**[Yazad](Characters/YazadAHeydar.md):**	*[Yazad](Characters/YazadAHeydar.md) chuckles and lightly pinches [Nora](Characters/NoraHonora.md)'s cheek* "You clearly had adorable parents with 
-good genes. Cheer up~" 
+**[Yazad](Characters/YazadAHeydar.md):**	*[Yazad](Characters/YazadAHeydar.md) chuckles and lightly pinches [Nora](Characters/NoraHonora.md)'s cheek* "You clearly had adorable parents with
+good genes. Cheer up~"
 
 **[Nora](Characters/NoraHonora.md):**	*[Nora](Characters/NoraHonora.md) smiled a little and flinched as she was pinched:* "Well I hope so."
 
@@ -100,7 +101,7 @@ good genes. Cheer up~"
 
 **[Nora](Characters/NoraHonora.md):**	"Hm. We'll see about that last part~"
 
-**[Yazad](Characters/YazadAHeydar.md):**	"I am confident in my multi-parenting abilities~" 
+**[Yazad](Characters/YazadAHeydar.md):**	"I am confident in my multi-parenting abilities~"
 
 **[Nora](Characters/NoraHonora.md):**	"I sure hope so~"
 
@@ -115,5 +116,3 @@ good genes. Cheer up~"
 **[Yazad](Characters/YazadAHeydar.md):**	"Always~"
 
 #### *Nora waved as he left.*
-
-
