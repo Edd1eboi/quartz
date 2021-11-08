@@ -12,17 +12,18 @@
         <div class="spacer"></div>
         {{partial "darkmode.html" .}}
 
-        <div class="page-end">
-            <div class="backlinks-container">
-                {{partial "backlinks.html" .}}
-            </div>
-            <div>
-                {{partial "graph.html" .}}
-            </div>
-        </div>
-
     </header>
     <article>
+
+      <div class="page-end">
+          <div class="backlinks-container">
+              {{partial "backlinks.html" .}}
+          </div>
+          <div>
+              {{partial "graph.html" .}}
+          </div>
+      </div>
+
         {{if $.Site.Data.config.enableToc}}
         <aside class="mainTOC">
             <h3>Table of Contents</h3>
