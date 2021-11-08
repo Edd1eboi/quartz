@@ -6,19 +6,20 @@
 <!-- Main Page -->
 <div class="singlePage">
     {{partial "darkmode.html" .}}
-    <div class="page-end">
-        <div class="backlinks-container">
-            {{partial "backlinks.html" .}}
-        </div>
-        <div>
-            {{partial "graph.html" .}}
-        </div>
-    </div>
     {{.Content}}
 
     <!-- Contact Info -->
     <div>
         {{partial "footer.html" .}}
+        <div class="page-end">
+            <div class="backlinks-container">
+                {{partial "backlinks.html" .}}
+            </div>
+            <div>
+                {{partial "graph.html" .}}
+            </div>
+        </div>
+
     </div>
 </div>
 {{end}}
