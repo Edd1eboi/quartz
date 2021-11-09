@@ -25,7 +25,7 @@ Though it is a nice underlying thought, she lacks the social know-how to express
 
 ### Origins:
 
-*[Nora](SubIndexes/Characters/Nora%20Honora.md)* awoke one day on a planet called *[Halpha](SubIndexes/Places/Halpha.md)* after having crashed down in a pod. She was one of many so-called *[Meteorns](Concepts/Meteorns.md)*. 
+*[Nora](SubIndexes/Characters/Nora.md)* awoke one day on a planet called *[Halpha](SubIndexes/Places/Halpha.md)* after having crashed down in a pod. She was one of many so-called *[Meteorns](Concepts/Meteorns.md)*. 
 
 ---
 
@@ -34,14 +34,14 @@ Though it is a nice underlying thought, she lacks the social know-how to express
 
 ### Nora's past:
 
-
+---
 #### What she knows:
 
-*[Nora](SubIndexes/Characters/Nora%20Honora.md)*, along with most other *[Meteorns](Concepts/Meteorns.md)*, can't remember much of her past. She has *vague* memories of her family spending time in cafés or restaurants, so she likes spending time at the café.
+*[Nora](SubIndexes/Characters/Nora.md)*, along with most other *[Meteorns](Concepts/Meteorns.md)*, can't remember much of her past. She has *vague* memories of her family spending time in cafés or restaurants, so she likes spending time at the café.
 
 #### Her appearance:
 
-Despite her appearance, *[Nora](SubIndexes/Characters/Nora%20Honora.md)* is not a cat ~~nor a racoon~~, she's infact a genetic experiment where *[Gaia Stellaria](SubIndexes/Characters/GaiaStellaria.md)* spliced cat-DNA into her existing Deuman-DNA. The experiment that *[Gaia](SubIndexes/Characters/GaiaStellaria.md)* performed on her was mindbendingly painful and agonizing. Nowadays she doesn't remember the circumstances of her features due to the landing on *[Halpha](SubIndexes/Places/Halpha.md)*, though being curious about it, it does not bother her too much.  
+Despite her appearance, *[Nora](SubIndexes/Characters/Nora)* is not a cat ~~nor a racoon~~, she's infact a genetic experiment where *[Gaia Stellaria](SubIndexes/Characters/GaiaStellaria.md)* spliced cat-DNA into her existing Deuman-DNA. The experiment that *[Gaia](SubIndexes/Characters/GaiaStellaria.md)* performed on her was mindbendingly painful and agonizing. Nowadays she doesn't remember the circumstances of her features due to the landing on *[Halpha](SubIndexes/Places/Halpha.md)*, though being curious about it, it does not bother her too much.  
 
 
 
