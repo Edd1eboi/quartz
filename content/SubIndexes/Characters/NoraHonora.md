@@ -41,7 +41,7 @@ Though it is a nice underlying thought, she lacks the social know-how to express
 
 #### Her appearance:
 
-Despite her appearance, *[Nora](SubIndexes/Characters/NoraHonora.md)* is not a cat ~~nor a racoon~~, she's infact a genetic experiment where *[GaiaStellaria](SubIndexes/Characters/GaiaStellaria.md)* spliced cat-DNA into her existing Deuman-DNA. The experiment that *[Gaia](SubIndexes/Characters/GaiaStellaria.md)* performed on her was mindbendingly painful and agonizing. Nowadays she doesn't remember the circumstances of her features due to the landing on *[Halpha](SubIndexes/Places/Halpha.md)*, though being curious about it, it does not bother her too much.  
+Despite her appearance, *[Nora](SubIndexes/Characters/NoraHonora.md)* is not a cat ~~nor a racoon~~, she's infact a genetic experiment where *[Gaia Stellaria](SubIndexes/Characters/GaiaStellaria.md)* spliced cat-DNA into her existing Deuman-DNA. The experiment that *[Gaia](SubIndexes/Characters/GaiaStellaria.md)* performed on her was mindbendingly painful and agonizing. Nowadays she doesn't remember the circumstances of her features due to the landing on *[Halpha](SubIndexes/Places/Halpha.md)*, though being curious about it, it does not bother her too much.  
 
 
 
