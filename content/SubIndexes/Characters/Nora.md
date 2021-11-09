@@ -37,7 +37,6 @@ Though it is a nice underlying thought, she lacks the social know-how to express
 
 ### Nora's past:
 
----
 #### What she knows:
 
 *[Nora](SubIndexes/Characters/Nora.md)*, along with most other *[Meteorns](Concepts/Meteorns.md)*, can't remember much of her past. She has *vague* memories of her family spending time in cafés or restaurants, so she likes spending time at the café.
