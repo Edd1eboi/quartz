@@ -1,2 +1,2 @@
 ## Characters:
-- [Nora Honora](SubIndexes/Characters/Nora%20Honora.md)
+- [NoraHonora](SubIndexes/Characters/NoraHonora.md)
