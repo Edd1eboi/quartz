@@ -25,8 +25,8 @@
 
 ---
 - **Name for the Discord?**
-	- *Currently it's *"The 26th ARKs Division"*.
-	- ***Sub-issue:*** *Logo's dependent on the name, so for the moment it's not permanent, it'll change with how the community it to be.*
+	- *Currently it's "The 26th ARKs Division"*.
+	- ***Sub-issue:*** *Logo's dependent on the name, so for the moment it's not permanent, it'll change with how the community wants it to be.*
 
 ---
 
@@ -59,3 +59,5 @@
 - **Screenshots channel and personal twitters?**
 	- *Do we want to post twitter-links (or similar) in #character-screenshots or should we seperate the two into something like " #twitter-posts "?*
 
+---
+- **Anything else? Just drop them in #suggestions!**
