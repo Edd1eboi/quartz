@@ -24,7 +24,7 @@
 	- *Current idea is to stay on B26.*
 
 ---
-- **Name for the Discord? **
+- **Name for the Discord?**
 	- *Currently it's *"The 26th ARKs Division"*.
 	- ***Sub-issue:*** *Logo's dependent on the name, so for the moment it's not permanent, it'll change with how the community it to be.*
 
@@ -55,9 +55,7 @@
 - **Making the wiki is fun and all, but I could use some help with proof-reading logs and formatting them properly - along with working on community-character sheets!**
 	- *This would be completely voluntary and I'd personally help you :)*
 
-
 ---
 - **Screenshots channel and personal twitters?**
 	- *Do we want to post twitter-links (or similar) in #character-screenshots or should we seperate the two into something like " #twitter-posts "?*
----
 
