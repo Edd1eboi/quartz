@@ -10,4 +10,4 @@
 - [Alliances](SubIndexes/Alliances/Alliances.md)
 
 
-### [DiscordChecklist](OffTopic/DiscordChecklist.md)
+### The Discord [Checklist](OffTopic/DiscordChecklist.md)!
