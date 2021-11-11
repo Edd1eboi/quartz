@@ -8,3 +8,6 @@
 - [Characters](SubIndexes/Characters/Characters.md)
 - [Logs](SubIndexes/Logs/Logs.md)
 - [Alliances](SubIndexes/Alliances/Alliances.md)
+
+
+### [Discord Checklist](OffTopic/Discord%20Checklist.md)
