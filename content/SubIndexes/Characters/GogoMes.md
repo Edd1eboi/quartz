@@ -35,7 +35,7 @@ She's the girlfriend of [Lilit](SubIndexes/Characters/Lilit.md).
 ---
 
 # Artworks:
-![Gogogo](https://raw.githubusercontent.com/Edd1ee/quartz/hugo/content/Images/art/MantisPray2Art/gogowaa?style=centerme)
+![Gogogo](https://raw.githubusercontent.com/Edd1ee/quartz/hugo/content/Images/art/MantisPray2Art/gogowaa.png?style=centerme)
 
 ![Gogogo](https://raw.githubusercontent.com/Edd1ee/quartz/hugo/content/Images/art/MantisPray2Art/huggg.png?style=centerme)
 
@@ -45,6 +45,6 @@ She's the girlfriend of [Lilit](SubIndexes/Characters/Lilit.md).
 
 ![Gogogo](https://raw.githubusercontent.com/Edd1ee/quartz/hugo/content/Images/art/MantisPray2Art/themtwhem.png?style=centerme)
 
-![Gogogo](https://raw.githubusercontent.com/Edd1ee/quartz/hugo/content/Images/Screenshots/art/MantisPray2Art/women.png?style=centerme)
+![Gogogo](https://github.com/Edd1ee/quartz/blob/hugo/content/Images/art/MantisPray2Art/women.png?raw=true?style=centerme)
 
 ### All artworks above are made by [Mantispray](https://twitter.com/MantisPray2) (Twitter)
