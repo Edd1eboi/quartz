@@ -10,6 +10,16 @@
 
 ---
 
+### Personality:
+	
+Nora could be characterized as a plethora of things; many would say that she's a *neurotic* piece of work that is *crude*, *mischievous* and *snarky*. However, she often is very oblivious to this, *e.g*:
+ 
+ >She'd eat a meal and say that it tastes bad, not due to her wanting to be mean or condescending - but because she doesn't think lying would be beneficial to the chef's development. Because, for her, food does not have any emotional connection to the chef. 
+
+Though it is a nice underlying thought, she lacks the social know-how to express this in a good way without deeply offending most people, which inhibits her to befriend people.
+
+
+---
 
 > ### Details:
 > - **Name**: Nora Honora
@@ -21,22 +31,11 @@
 > - **Pronouns:** She/They (But doesn't mind anything else)
 ---
 
-### Personality:
-	
-Nora could be characterized as a plethora of things; many would say that she's a *neurotic* piece of work that is *crude*, *mischievous* and *snarky*. However, she often is very oblivious to this, *e.g*:
- 
- >She'd eat a meal and say that it tastes bad, not due to her wanting to be mean or condescending - but because she doesn't think lying would be beneficial to the chef's development. Because, for her, food does not have any emotional connection to the chef. 
-
-Though it is a nice underlying thought, she lacks the social know-how to express this in a good way without deeply offending most people, which inhibits her to befriend people.
-
----
-
-
 
 ## Background:
 ---
  ### Origins:
- *[Nora](SubIndexes/Characters/Nora.md)* awoke one day on a planet called *[Halpha](SubIndexes/Places/Halpha.md)* after having crashed down in a pod. She was one of many so-called *[Meteorns](Concepts/Meteorns.md)*. 
+ *[Nora](SubIndexes/Characters/Nora.md)* awoke one day on a planet called *[Halpha](SubIndexes/Places/Halpha.md)* after having crashed down in a pod. She was one of many so-called *[Meteorns](SubIndexes/Concepts/Meteorns.md)*. 
 
 ---
 
@@ -45,11 +44,10 @@ Though it is a nice underlying thought, she lacks the social know-how to express
 
 ### Nora's past:
 
----
 
 #### What she knows:
 
-*[Nora](SubIndexes/Characters/Nora.md)*, along with most other *[Meteorns](Concepts/Meteorns.md)*, can't remember much of her past. She has *vague* memories of her family spending time in cafés or restaurants, so she likes spending time at the café.
+*[Nora](SubIndexes/Characters/Nora.md)*, along with most other *[Meteorns](SubIndexes/Concepts/Meteorns.md)*, can't remember much of her past. She has *vague* memories of her family spending time in cafés or restaurants, so she likes spending time at the café.
 
 #### Her appearance:
 

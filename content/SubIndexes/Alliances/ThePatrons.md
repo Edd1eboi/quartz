@@ -1,11 +1,13 @@
 # The Patrons
 ---
 > ### Details:
-> Aliance Name: The Patrons
-> **Ship**: 03 - Thorn
+> - Alliance Name: The Patrons
+> - **Ship**: 03 - Thorn
 >-   We usually hangs out on Block 26!
-> **Alliance Type**: Roleplay
-> **Alliance Time Zone**: CEST
+> - **Alliance Type**: Roleplay
+> - **Alliance Time Zone**: CEST
+
+--- 
 
 > ### About:
 >-   Most of us are very gay. 🏳️‍🌈
