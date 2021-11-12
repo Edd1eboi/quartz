@@ -1,5 +1,7 @@
 # Equinox
 ---
+![Equinox](https://raw.githubusercontent.com/Edd1ee/quartz/hugo/content/Images/Screenshots/equinox.jpg?style=centerme)
+---
 #### Personality:
 
 Equinox shows basic emotion around others while her Light Personality is in control and finds it incredibly difficult to trust people other than Nox(Dark Personality) and she rather that she keep to herself so that past events don’t repeat themselves. Due to her job as an ARKs operative, she has learned to open up to fellow operatives more easily.

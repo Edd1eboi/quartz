@@ -18,11 +18,11 @@
 
 ### Personality:
 	
-Nora could be characterized as a plethora of things; many would say that she's a *neurotic* piece of work that is *crude*, *mischievous* and *snarky*. However, she often is very oblivious to this, *e.g*:
-
-> She'd eat a meal and say that it tastes bad, not due to her wanting to be mean or condescending - but because she doesn't think lying would be beneficial to the chef's development. Because, for her, food does not have any emotional connection to the chef. 
-
-Though it is a nice underlying thought, she lacks the social know-how to express this in a good way without deeply offending most people, which inhibits her to befriend people.
+> Nora could be characterized as a plethora of things; many would say that she's a *neurotic* piece of work that is *crude*, *mischievous* and *snarky*. However, she often is very oblivious to this, *e.g*:
+> 
+> >She'd eat a meal and say that it tastes bad, not due to her wanting to be mean or condescending - but because she doesn't think lying would be beneficial to the chef's development. Because, for her, food does not have any emotional connection to the chef. 
+> 
+> Though it is a nice underlying thought, she lacks the social know-how to express this in a good way without deeply offending most people, which inhibits her to befriend people.
 
 ---
 
