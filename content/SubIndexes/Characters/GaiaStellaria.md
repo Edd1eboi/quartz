@@ -1,6 +1,6 @@
 # Gaia Stellaria
 ---
-![Gaia](https://raw.githubusercontent.com/Edd1ee/quartz/hugo/content/Images/Screenshots/gaia.png?style=centerme)
+![Gaia](https://raw.githubusercontent.com/Edd1ee/quartz/hugo/content/Images/Screenshots/Gaia.png?style=centerme)
 
 ---
 

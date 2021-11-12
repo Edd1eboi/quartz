@@ -2,9 +2,14 @@
 	
 # Nora Honora
 ---
-![Teeny Nora](https://raw.githubusercontent.com/Edd1ee/quartz/hugo/content/Images/Screenshots/Nora.png?style=centerme)
----
+
 > ## "Did someone say *fire*? No...? ...must've misheard tea - coming up!~"
+
+---
+![Teeny Nora](https://raw.githubusercontent.com/Edd1ee/quartz/hugo/content/Images/Screenshots/Nora.png?style=centerme)
+
+---
+
 
 > ### Details:
 > - **Name**: Nora Honora
@@ -13,7 +18,7 @@
 > - **Age**: 17 years old
 > - **Gender**: Woman
 > - **Occupation/Archetype**: Bartender, ARKs defender, Ranger/gunner
-> - **Pronouns:** She/He/They
+> - **Pronouns:** She/They (But doesn't mind anything else)
 ---
 
 ### Personality:
@@ -39,6 +44,8 @@ Though it is a nice underlying thought, she lacks the social know-how to express
 ---
 
 ### Nora's past:
+
+---
 
 #### What she knows:
 
