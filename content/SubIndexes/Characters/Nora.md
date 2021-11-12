@@ -2,7 +2,8 @@
 	
 # Nora Honora
 ---
-
+![Teeny Nora](https://raw.githubusercontent.com/Edd1ee/quartz/hugo/content/Images/Screenshots/Nora.png?style=centerme)
+---
 ## "Did someone say fire? No? Must've misheard tea - coming up!~"
 
 > ### Details:
@@ -25,7 +26,7 @@ Though it is a nice underlying thought, she lacks the social know-how to express
 
 ---
 
-![Teeny Nora](https://raw.githubusercontent.com/Edd1ee/quartz/hugo/content/Images/Icons/LITTELNORA.png?style=centerme)
+
 
 ## Background:
 ---
