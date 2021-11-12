@@ -60,4 +60,7 @@
 	- *Do we want to post twitter-links (or similar) in #character-screenshots or should we seperate the two into something like " #twitter-posts "?*
 
 ---
+- **NGS Leaks/Spoilers channel?**
+	- *I essentially think this can be added, it's just a matter of formatting - ergo it's on the todo-list.*
+---
 - **Anything else? Just drop them in #suggestions!**
