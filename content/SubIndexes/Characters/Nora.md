@@ -4,7 +4,7 @@
 ---
 ![Teeny Nora](https://raw.githubusercontent.com/Edd1ee/quartz/hugo/content/Images/Screenshots/Nora.png?style=centerme)
 ---
-## "Did someone say fire? No? Must've misheard tea - coming up!~"
+> ## "Did someone say *fire*? No...? ...must've misheard tea - coming up!~"
 
 > ### Details:
 > - **Name**: Nora Honora
@@ -18,11 +18,11 @@
 
 ### Personality:
 	
-> Nora could be characterized as a plethora of things; many would say that she's a *neurotic* piece of work that is *crude*, *mischievous* and *snarky*. However, she often is very oblivious to this, *e.g*:
-> 
-> >She'd eat a meal and say that it tastes bad, not due to her wanting to be mean or condescending - but because she doesn't think lying would be beneficial to the chef's development. Because, for her, food does not have any emotional connection to the chef. 
-> 
-> Though it is a nice underlying thought, she lacks the social know-how to express this in a good way without deeply offending most people, which inhibits her to befriend people.
+Nora could be characterized as a plethora of things; many would say that she's a *neurotic* piece of work that is *crude*, *mischievous* and *snarky*. However, she often is very oblivious to this, *e.g*:
+ 
+ >She'd eat a meal and say that it tastes bad, not due to her wanting to be mean or condescending - but because she doesn't think lying would be beneficial to the chef's development. Because, for her, food does not have any emotional connection to the chef. 
+
+Though it is a nice underlying thought, she lacks the social know-how to express this in a good way without deeply offending most people, which inhibits her to befriend people.
 
 ---
 
@@ -30,9 +30,8 @@
 
 ## Background:
 ---
-### Origins:
-
-*[Nora](SubIndexes/Characters/Nora.md)* awoke one day on a planet called *[Halpha](SubIndexes/Places/Halpha.md)* after having crashed down in a pod. She was one of many so-called *[Meteorns](Concepts/Meteorns.md)*. 
+ ### Origins:
+ *[Nora](SubIndexes/Characters/Nora.md)* awoke one day on a planet called *[Halpha](SubIndexes/Places/Halpha.md)* after having crashed down in a pod. She was one of many so-called *[Meteorns](Concepts/Meteorns.md)*. 
 
 ---
 
