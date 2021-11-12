@@ -25,7 +25,7 @@ Though it is a nice underlying thought, she lacks the social know-how to express
 
 ---
 
-![A cute kitten](http://placekitten.com/200/300?style=centerme)
+![Teeny Nora](https://raw.githubusercontent.com/Edd1ee/quartz/hugo/content/Images/Icons/LITTELNORA.png?style=centerme)
 
 ## Background:
 ---

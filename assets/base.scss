@@ -12,9 +12,9 @@ h1, h2, h3, h4, ol, ul, thead {
 }
 
 img[src$="centerme"] {
-  display:block;
-/*  margin: 0 auto; */
-}
+      width: 600px;
+      margin: 0 auto;
+  }
 
 p, ul, text {
   font-family: 'Source Sans Pro', sans-serif;
