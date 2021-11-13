@@ -9,4 +9,6 @@
 - *First interactions:*
 	- [Lilit and RO-C's First Interaction](SubIndexes/Logs/finishedlogs/firstinteractions/LilitROCsFirstInteraction.md) *(Featuring [Nora](SubIndexes/Characters/Nora.md)~)*
 
+---
+
 ### [Submitted logs](SubIndexes/Logs/submittedlogs/SubmittedLogsIndex.md)
