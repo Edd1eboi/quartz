@@ -6,7 +6,7 @@
 
 #### And the wiki begins :D - check out these things: 
 - [Characters](SubIndexes/Characters/Characters.md)
-- [Logs](SubIndexes/Logs/%/Logs.md)
+- [Logs](SubIndexes/Logs/LogsIndex.md)
 - [Alliances](SubIndexes/Alliances/Alliances.md)
 
 
