@@ -2,4 +2,4 @@
 
 
 ### Logs in this place:
-- < none >
+- [Most of the logs](SubIndexes/Logs/LogsIndex.md)
