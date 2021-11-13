@@ -14,7 +14,7 @@
 
 **[Nora](SubIndexes/Characters/Nora.md)**:  "Fine I'll call you Rosie." *She said, noticing her fumes.*
 
-##### *Rosie puffs her cheeks out in annoyance.*
+#### *Rosie puffs her cheeks out in annoyance.*
 
 **[Nora](SubIndexes/Characters/Nora.md)**: "You'll learn about this later in school." *[Nora](SubIndexes/Characters/Nora.md) chuckled.*
 
@@ -30,11 +30,11 @@
 
 **[Nora](SubIndexes/Characters/Nora.md)**: "Yeah, I had a falling ou- Oh?" 
 
-##### *[Rosie](SubIndexes/Characters/RO-C.md) thought she saw something moving in the bushes and turns to look.*
+#### *[Rosie](SubIndexes/Characters/RO-C.md) thought she saw something moving in the bushes and turns to look.*
 
 **[RO-C](SubIndexes/Characters/RO-C.md)**: "Hmm?!"
 
-##### *[Nora](SubIndexes/Characters/Nora.md)  approached the bush*: "Who resides here?"
+#### *[Nora](SubIndexes/Characters/Nora.md)  approached the bush*: "Who resides here?"
 
 **[Lilit](SubIndexes/Characters/Lilit.md)**: "Blub blub" 
 
@@ -161,7 +161,7 @@
 
 **[RO-C](SubIndexes/Characters/RO-C.md)**: "Umm... maybe the dirt would be put to better use for planting flowers instead?"
 
-##### **[Nora](SubIndexes/Characters/Nora.md)** puts on the glasses: "Is this what you wanted?"
+#### **[Nora](SubIndexes/Characters/Nora.md)** puts on the glasses: "Is this what you wanted?"
 
 **[Nora](SubIndexes/Characters/Nora.md)**: "Perhaps, if you're a lowly dirt-consumer, but I, **[Nora Honora](SubIndexes/Characters/Nora.md)**, know the fine art of eating dirt."
 
@@ -169,14 +169,14 @@
 
 **[Nora](SubIndexes/Characters/Nora.md)**: "What?"
 
-##### *[Lilit](SubIndexes/Characters/Lilit.md) pulls out another pair of glasses and puts them on:* "Yes."
+#### *[Lilit](SubIndexes/Characters/Lilit.md) pulls out another pair of glasses and puts them on:* "Yes."
 
 **[Nora](SubIndexes/Characters/Nora.md)**: "Why do you have so many glasses?"
 
 **[Lilit](SubIndexes/Characters/Lilit.md)**: "I had a hard time adapting to life above the sea, it was hard to see things - so I got a lot of glasses."
 **[Lilit](SubIndexes/Characters/Lilit.md)**: "I'm used to it now though."
 
-##### *[Nora](SubIndexes/Characters/Nora.md) takes the glasses off and casts them to [Lilit](SubIndexes/Characters/Lilit.md)*: "That's fair enough."
+#### *[Nora](SubIndexes/Characters/Nora.md) takes the glasses off and casts them to [Lilit](SubIndexes/Characters/Lilit.md)*: "That's fair enough."
 
 **[Lilit](SubIndexes/Characters/Lilit.md)** *Puts all the glasses back in her pockets.*
 
@@ -265,13 +265,13 @@
 
 **[Lilit](SubIndexes/Characters/Lilit.md)**: "Exactly, Rosie. Glad someone around here taught you good manners."
 
-##### *[Nora](SubIndexes/Characters/Nora.md) menancingly brings up the dirt from the ground again:* "It ***best*** be something personal..."
+#### *[Nora](SubIndexes/Characters/Nora.md) menancingly brings up the dirt from the ground again:* "It ***best*** be something personal..."
 
 **[RO-C](SubIndexes/Characters/RO-C.md)**: Rosie smiles at **[Lilit](SubIndexes/Characters/Lilit.md)**'s praise "My mom taught me this and some of the shows I watch"
 
 **[Lilit](SubIndexes/Characters/Lilit.md)**: "Oh, what shows? My little photon? I love that show." 
 
-##### *[Lilit](SubIndexes/Characters/Lilit.md) side-eyes [Nora](SubIndexes/Characters/Nora.md)*: "Found a snack, I see."
+#### *[Lilit](SubIndexes/Characters/Lilit.md) side-eyes [Nora](SubIndexes/Characters/Nora.md)*: "Found a snack, I see."
 
 **[Nora](SubIndexes/Characters/Nora.md)**: "*Shut*."
 
@@ -285,13 +285,13 @@
 
 **[Lilit](SubIndexes/Characters/Lilit.md)**: "No shows at all - no visiphone or *bisiphone* or whatever you kids call it."
 
-##### *Rosie's MAG began ringing, interrupting the conversation.*
+#### *Rosie's MAG began ringing, interrupting the conversation.*
 
 **[Nora](SubIndexes/Characters/Nora.md)**: "Oh, what's that?"
 
 **[RO-C](SubIndexes/Characters/RO-C.md)**: "Uh oh!" 
 
-##### *Rosie then open's up the MAG's projected keyboard and starts typing something in.*
+#### *Rosie then open's up the MAG's projected keyboard and starts typing something in.*
 
 **[Nora](SubIndexes/Characters/Nora.md)**: "Hm?!"
 
@@ -311,4 +311,4 @@
 
 **[Lilit](SubIndexes/Characters/Lilit.md)**: "Nice meeting you little one!"
 
-##### *[Nora](SubIndexes/Characters/Nora.md) and [Lilit](SubIndexes/Characters/Lilit.md) remained sitting in the grass for a few moments, before parting aswell.*
+#### *[Nora](SubIndexes/Characters/Nora.md) and [Lilit](SubIndexes/Characters/Lilit.md) remained sitting in the grass for a few moments, before parting aswell.*
