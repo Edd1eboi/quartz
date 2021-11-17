@@ -4,15 +4,6 @@
 
 ---
 
-#### Personality:
-
-Equinox shows basic emotion around others while her Light Personality is in control and finds it incredibly difficult to trust people other than Nox(Dark Personality) and she rather that she keep to herself so that past events don’t repeat themselves. Due to her job as an ARKs operative, she has learned to open up to fellow operatives more easily.
-
-While her Dark Personality is in control, she shows immense distrust to people around her other than Light and sometimes an occasional bout of anger if anyone is too pushy getting close to her. She tends to be incredibly aggressive and rough with anyone who bothers her and spends a lot of time in the training rooms.
-
-She avoids the subject of family as much as she can due to bitter memories and depending on the personality that is in control, if the subject is brought up, different reactions will occur.
-
----
 
 #### Details:
 
@@ -26,6 +17,17 @@ She avoids the subject of family as much as she can due to bitter memories and d
 > -   **Pronouns:** She/They
 
 ---
+
+#### Personality:
+
+Equinox shows basic emotion around others while her Light Personality is in control and finds it incredibly difficult to trust people other than Nox(Dark Personality) and she rather that she keep to herself so that past events don’t repeat themselves. Due to her job as an ARKs operative, she has learned to open up to fellow operatives more easily.
+
+While her Dark Personality is in control, she shows immense distrust to people around her other than Light and sometimes an occasional bout of anger if anyone is too pushy getting close to her. She tends to be incredibly aggressive and rough with anyone who bothers her and spends a lot of time in the training rooms.
+
+She avoids the subject of family as much as she can due to bitter memories and depending on the personality that is in control, if the subject is brought up, different reactions will occur.
+
+---
+
 
 #### Background (Pre-NGS):
 

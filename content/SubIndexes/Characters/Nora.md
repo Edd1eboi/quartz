@@ -10,6 +10,16 @@
 
 ---
 
+> ### Details:
+> - **Name**: Nora Honora
+> - **Race**: Gene-spliced Deuman *(Deuman-cat mix)*
+> - **Height**: 155 cms 
+> - **Age**: 17 years old
+> - **Gender**: Woman
+> - **Occupation/Archetype**: Bartender, ARKs defender, Ranger/gunner
+> - **Pronouns:** She/They (But doesn't mind anything else)
+---
+
 ### Personality:
 	
 Nora could be characterized as a plethora of things; many would say that she's a *neurotic* piece of work that is *crude*, *mischievous* and *snarky*. However, she often is very oblivious to this, *e.g*:
@@ -21,15 +31,6 @@ Though it is a nice underlying thought, she lacks the social know-how to express
 
 ---
 
-> ### Details:
-> - **Name**: Nora Honora
-> - **Race**: Gene-spliced Deuman *(Deuman-cat mix)*
-> - **Height**: 155 cms 
-> - **Age**: 17 years old
-> - **Gender**: Woman
-> - **Occupation/Archetype**: Bartender, ARKs defender, Ranger/gunner
-> - **Pronouns:** She/They (But doesn't mind anything else)
----
 
 
 ## Background:

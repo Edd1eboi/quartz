@@ -10,24 +10,27 @@
 
 ---
 
+### Details:
+
+> -   **Name:** Gogo Mes
+> -   **Race:** Raptor
+> -   **Height:** 168 cms
+> -   **Age:** 20 years old
+> -   **Gender:** Woman
+> -   **Occupation:** Guard on home planet.
+> -   **Weaponry:** Dual-wielding guns.
+> -   **Pronouns:** She/They
+
+---
+
+
 ### Personality:
 
 Insert personality here.
 
 ---
 
-### Details:
 
--   **Name:** Gogo Mes
--   **Race:** Raptor
--   **Height:** 168 cms
--   **Age:** 20 years old
--   **Gender:** Woman
--   **Occupation:** Guard on home planet.
--   **Weaponry:** Dual-wielding guns.
--   **Pronouns:** She/They
-
----
 
 ### Background:
 She's the girlfriend of [Lilit](SubIndexes/Characters/Lilit.md).

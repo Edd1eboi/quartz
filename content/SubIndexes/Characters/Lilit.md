@@ -10,12 +10,7 @@
 
 ---
 
-### Personality:
-
-She towers over most people she meets and stands out a lot in [Halpha](SubIndexes/Places/Halpha.md). Since she knows little about human culture and conventions, she may appear to be rude, lazy, crude or negligent. Inside however, she is a caring person, willing to do anything for her friends, especially those in [The Patrons](SubIndexes/Alliances/ThePatrons.md).
-
 > #### Details:
->
 >-   **Name:** Lilit Lichenaes
 >-   **Race:** Fish person
 >-   **Height:** 200 cms
@@ -24,6 +19,13 @@ She towers over most people she meets and stands out a lot in [Halpha](SubIndexe
 >-   **Occupation/Archetype:** Heir to the throne
 >-   **Weaponry:** Ice rod or bow. She likes it ranged.
 >-   **Pronouns:** She/They
+
+---
+
+
+### Personality:
+
+She towers over most people she meets and stands out a lot in [Halpha](SubIndexes/Places/Halpha.md). Since she knows little about human culture and conventions, she may appear to be rude, lazy, crude or negligent. Inside however, she is a caring person, willing to do anything for her friends, especially those in [The Patrons](SubIndexes/Alliances/ThePatrons.md).
 
 
 ---
