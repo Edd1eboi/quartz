@@ -6,6 +6,10 @@
 
 ---
 
+![RO-C](https://raw.githubusercontent.com/Edd1ee/quartz/hugo/content/Images/Screenshots/roc.png?style=centerme)
+
+---
+
 > ### Details:
 > - **Name**: Rosie Clements
 > - **Race**: Cast
