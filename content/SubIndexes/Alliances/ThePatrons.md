@@ -1,7 +1,7 @@
 # The Patrons
 ---
 > ### Details:
-> - Alliance Name: The Patrons
+> - **Alliance Name**: The Patrons
 > - **Ship**: 03 - Thorn
 >-   We usually hangs out on Block 26!
 > - **Alliance Type**: Roleplay

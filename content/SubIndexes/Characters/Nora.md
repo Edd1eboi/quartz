@@ -16,13 +16,13 @@
 > - **Height**: 155 cms 
 > - **Age**: 17 years old
 > - **Gender**: Woman
-> - **Occupation/Archetype**: Bartender, ARKs defender, Ranger/gunner
+> - **Occupation/Archetype**: ~~Waitress~~ *(retconned till further notice)*, ARKs defender, Ranger/gunner
 > - **Pronouns:** She/They (But doesn't mind anything else)
 ---
 
 ### Personality:
 	
-Nora could be characterized as a plethora of things; many would say that she's a *neurotic* piece of work that is *crude*, *mischievous* and *snarky*. However, she often is very oblivious to this, *e.g*:
+Nora could be characterized as a plethora of things; many would say that she's a neurotic piece of work that is crude, mischievous and snarky. However, she often is very oblivious to this, *e.g:*
  
  >She'd eat a meal and say that it tastes bad, not due to her wanting to be mean or condescending - but because she doesn't think lying would be beneficial to the chef's development. Because, for her, food does not have any emotional connection to the chef. 
 
@@ -31,29 +31,42 @@ Though it is a nice underlying thought, she lacks the social know-how to express
 
 ---
 
-
-
-## Background:
----
- ### Origins:
- *[Nora](SubIndexes/Characters/Nora.md)* awoke one day on a planet called *[Halpha](SubIndexes/Places/Halpha.md)* after having crashed down in a pod. She was one of many so-called *[Meteorns](SubIndexes/Concepts/Meteorns.md)*. 
+## Nora's past: 
+#### (Spoilers, duh.)
 
 ---
-
-# *Spoilers and unfinished content ahead:*
----
-
-### Nora's past:
-
 
 #### What she knows:
 
-*[Nora](SubIndexes/Characters/Nora.md)*, along with most other *[Meteorns](SubIndexes/Concepts/Meteorns.md)*, can't remember much of her past. She has *vague* memories of her family spending time in cafés or restaurants, so she likes spending time at the café.
-
-#### Her appearance:
-
-Despite her appearance, *[Nora](SubIndexes/Characters/Nora)* is not a cat ~~nor a racoon~~, she's infact a genetic experiment where *[Gaia Stellaria](SubIndexes/Characters/GaiaStellaria.md)* spliced cat-DNA into her existing Deuman-DNA. The experiment that *[Gaia](SubIndexes/Characters/GaiaStellaria.md)* performed on her was mindbendingly painful and agonizing. Nowadays she doesn't remember the circumstances of her features due to the landing on *[Halpha](SubIndexes/Places/Halpha.md)*, though being curious about it, it does not bother her too much.  
+[Nora](SubIndexes/Characters/Nora.md), along with most other [Meteorns](SubIndexes/Concepts/Meteorns.md), can't remember much of her past. She has *vague* memories of her family spending time in cafés or restaurants, so she likes spending time at the café.
 
 
+#### Growing up:
 
-***<p align="center">(Source: <a>Me! I'm the writer!</a>) </p>***
+[Nora](SubIndexes/Characters/Nora.md)'s childhood was quite calm, other than the occasional ARKs emergencies that paralleled her life. Her family consisted of her and her two parents, one being an ARKs defender and the other a café worker. As she was not old enough to go out into combat, [Nora](SubIndexes/Characters/Nora.md) instead studied for many years and learned about many different myths and philosophies, *(some of which even stuck with her after the crash on [Halpha](SubIndexes/Places/Halpha.md).)* 
+
+At the age of seventeen, [Nora](SubIndexes/Characters/Nora.md) began working alongside her parent at their café. [Nora](SubIndexes/Characters/Nora.md), being quite the diligent worker, was an exemplary waitress and was a near-natural at making different drinks and foods. The only plight being her poor social skills, leading to many failed interactions between her and customers, even so, she pulled through.
+
+Not so long after she'd began working at the café, she would suffer through an accident where the only solution for saving her life was to gene-splice her with another living being, though that would mean killing that other being. She'd been rushed to the emergency room with her parents by her side, both of whom offered to sacrifice themselves. [Nora](SubIndexes/Characters/Nora.md), of course, did not want that to happen and resisted for as long as she could, but after some time she passed out and could not resist no more. [Nora](SubIndexes/Characters/Nora.md) was put under for the time being, giving the parents time to console the medical team for a few hours before doing the procedure.
+
+One of the scientist who'd been working that day, [Gaia Stellaria](SubIndexes/Characters/GaiaStellaria.md), had an idea to save the Deumen's lives - the idea being to gene-splice [Nora](SubIndexes/Characters/Nora.md) with a cat that [Gaia](SubIndexes/Characters/GaiaStellaria.md) had taken from the streets. [[Nora]]'s parents were completely opposed to this, making it hard for the dear scientist to help. As the time had not yet ran out and it was nearing night, [Gaia](SubIndexes/Characters/GaiaStellaria.md) had devised a plan to save the girl without killing one of her parents. Whilst the parents were sound asleep, she took [Nora](SubIndexes/Characters/Nora.md) to her private lab and began the gene-splicing process. A rather large tail and cat ears began growing and in the middle of the procedure [Nora](SubIndexes/Characters/Nora.md) woke up to mind-bending agony and pain due to her bones stretching and growing. The pain pulsed throughout her body as her cells were being rewritten on the molecular level. Screams could even be heard from the outside of the *seemingly mad* scientist's lab.
+
+In the morning, [[Nora]] had been found outside of her room, unconcious on the floor. The doctors confirmed that she was fine and well. Her parents being outraged at the hospital's horrible safety standards, were despite this glad that their only daughter was okay. [Nora](SubIndexes/Characters/Nora.md) could not remember much from this event even before she'd arrived on [[Halpha]], only slight glimpses of the procedure remain engrained in her mind.
+
+---
+
+#### Leading up to the present:
+> ***(As we've not gotten much information regarding this, this'll be rather bare-bones.) ***
+
+Shortly after her procedure, yet another incident happened resulting in mass-evacuations. [Nora](SubIndexes/Characters/Nora.md)'s parent who worked in the ARKs, had decided to send her away in an emergency pod to yet again save her life. Nobody knows what happened that led to these events - but, it resulted in the crash-down experience that so many [meteorns](SubIndexes/Concepts/Meteorns.md) share;
+
+[Nora](SubIndexes/Characters/Nora.md), being scared, confused and cold, awoke to the banging sound on her emergency pod. She'd not yet acclimatized to her senses from the procedure and she instinctively covered her fluffy ears to shield herself from the sound. The pod began hissing as it opened itself and it took a moment before she could fully see properly. She stumbled out and passed out. 
+
+A few glimpses here and there as she was being pulled towards [Central City](SubIndexes/Places/CentralCity.md), showed an unfamiliar landscape that'd she'd never seen before. Her head felt emptier than deep space and she could barely remember her own name. She spent the next few days recovering at the hospital.
+
+After a swift recovery, [Nora](SubIndexes/Characters/Nora.md) began discovering [Central City](SubIndexes/Places/CentralCity.md), finding that she loved spending time in the command room reading a plethora of summaries, logs and stories from other ARK defenders. She also found her way back to the myths and stories aforementioned that she had read about in her younger years. The stories gave her some comfort, despite her not remembering why she felt that way.
+
+Her constant reading led to some justified boredom, to which she decided to remedy it by enrolling in the 26th ARKS division. There she'd feel right at home, again having that feeling of comfort.
+
+---
+
