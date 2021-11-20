@@ -56,7 +56,7 @@ In the morning, [[Nora]] had been found outside of her room, unconcious on the f
 ---
 
 #### Leading up to the present:
-> ***(As we've not gotten much information regarding this, this'll be rather bare-bones.) ***
+> (As we've not gotten much information regarding this, this'll be rather bare-bones.)
 
 Shortly after her procedure, yet another incident happened resulting in mass-evacuations. [Nora](SubIndexes/Characters/Nora.md)'s parent who worked in the ARKs, had decided to send her away in an emergency pod to yet again save her life. Nobody knows what happened that led to these events - but, it resulted in the crash-down experience that so many [meteorns](SubIndexes/Concepts/Meteorns.md) share;
 
