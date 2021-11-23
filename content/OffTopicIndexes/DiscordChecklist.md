@@ -54,27 +54,27 @@
 
 - #### Added personal roles - Some things will be changed further on, but for now it's okay.
 
-Old:
-> ~~#### **These specifically are things that can be changed as we go, it's not the biggest deal to have this come as it goes.**~~
-> - ~~**Personal roles!**~~
-> 	- ~~*Prounouns!*~~
-> 		- ~~They/Them~~
-> 		- ~~He/Him~~
-> 		- ~~She/Her~~
-> 		- ~~Anything else?~~
-> 	- ~~*Artist?*~~
-> 	- ~~*Wiki Contributor?*~~
-> 		- ~~Ergo, you send things like logs in, or that that you help in other ways.~~
+*Old:*
+> *~~#### **These specifically are things that can be changed as we go, it's not the biggest deal to have this come as it goes.**~~*
+> - *~~**Personal roles!**~~*
+> 	- *~~*Prounouns!*~~*
+> 		- *~~They/Them~~*
+> 		- *~~He/Him~~*
+> 		- *~~She/Her~~*
+> 		- *~~Anything else?~~*
+> 	- *~~*Artist?*~~*
+> 	- *~~*Wiki Contributor?*~~*
+> 		- *~~Ergo, you send things like logs in, or that that you help in other ways.~~*
 > 	- ~~*Play time?*~~
-> 		- ~~Question-mark regarding this; should we format it like this, sort of: (?)~~
-> 			- ~~"Newbie"?~~
-> 			- ~~"Advanced"?~~
-> 			- ~~"No-lifer"?~~
-> 		- ~~Or as: (?)~~
-> 			- ~~100+ hours~~
-> 			- ~~500+ hours~~
-> 			- ~~1000+ hours~~
-> 			- ~~Etc etc.~~
+> 		- ~~*Question-mark regarding this; should we format it like this, sort of: (?)*~~
+> 			- *~~"Newbie"?~~*
+> 			-* ~~"Advanced"?~~*
+> 			- *~~"No-lifer"?~~*
+> 		- *~~Or as: (?)~~*
+> 			- *~~100+ hours~~*
+> 			- *~~500+ hours~~*
+> 			- *~~1000+ hours~~*
+> 			- *~~Etc etc.~~*
 
 
 ---
