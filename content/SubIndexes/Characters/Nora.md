@@ -67,5 +67,5 @@ The next few days were spent recovering at the hospital. Where she regained some
 
 After a swift recovery, [Nora](SubIndexes/Characters/Nora.md) began discovering [Central City](SubIndexes/Places/CentralCity.md), finding that she loved spending time in the command room reading a plethora of summaries, logs and stories from other ARK defenders. She also found her way back to the myths and stories aforementioned that she had read about in her younger years. The stories gave her some comfort, despite her not remembering why she felt that way.
 
-Her constant reading led to some justified boredom, to which she decided to remedy it by enrolling in the 26th ARKS division. There she'd feel right at home, again having that feeling of comfort.
+Her constant reading led to some justified boredom, to which she decided to remedy it by enrolling in the 26th ARKS division. There, she felt right at home - again having that feeling of comfort.
 
