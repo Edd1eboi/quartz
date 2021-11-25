@@ -69,4 +69,5 @@ After a swift recovery, [Nora](SubIndexes/Characters/Nora.md) began discovering 
 
 Her constant reading led to some justified boredom, to which she decided to remedy it by enrolling in the 26th ARKS division. There, she felt right at home - again having that feeling of comfort.
 
+Yebyob
 
