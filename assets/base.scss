@@ -221,6 +221,11 @@ a[href^="/"] {
     flex: 1 0 0;
   }
 
+  .page-end-content-margin {
+    margin: 10px 10px 10px 10px;
+  }
+
+
   & > .backlinks-container {
     & > ul {
       list-style: none;
