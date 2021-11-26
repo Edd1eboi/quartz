@@ -2,7 +2,7 @@
 
 ---
 
- > ## "--"
+ > ## "Uwah!~"
 
 ---
 
@@ -22,7 +22,7 @@
 ---
 
 ### Personality:
-Rosie is a reserved young girl who yearns to see the world beyond the walls of Central City. She can be described as a dreamer at heart, she tries to learn as much about Halpha through various recorded media and the stories and exploits of the ARKS defenders that she meets.
+Rosie is a reserved young girl who yearns to see the world beyond the walls of [Central City](SubIndexes/Places/CentralCity.md). She can be described as a dreamer at heart, she tries to learn as much about [Halpha](SubIndexes/Places/Halpha.md) through various recorded media and the stories and exploits of the ARKS defenders that she meets.
 
 ---
 

@@ -2,4 +2,6 @@
 ---
 
 - [Halpha](SubIndexes/Places/Halpha.md)
-	- [Central City](SubIndexes/Places/CentralCity.md)
+	- [Aelio](SubIndexes/Places/Aelio.md)
+		- [Central City](SubIndexes/Places/CentralCity.md)
+	- Retem (once it comes ;-;)

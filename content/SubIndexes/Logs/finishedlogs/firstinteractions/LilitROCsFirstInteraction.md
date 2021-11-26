@@ -10,6 +10,8 @@
 
 ### ***[Nora](SubIndexes/Characters/Nora.md)*** *sees* ***[RO-C](SubIndexes/Characters/RO-C.md)*** *approaching:* "Hey Ross~"
 
+^00bbb3
+
 **[Nora](SubIndexes/Characters/Nora.md)**: "How's it going?"
 
 **[RO-C](SubIndexes/Characters/RO-C.md)**: "R-Ross!?! Why that name??" she says, replying in protest.
@@ -135,7 +137,7 @@
 **[Lilit](SubIndexes/Characters/Lilit.md)**: "We had cars, kinda, more like pods. But I crashed like a bunch of my dads pods so he banned me from using them"
 **[Lilit](SubIndexes/Characters/Lilit.md)**: "I think anyways, kinda hazy memory. Maybe it was just one."
 
-**[RO-C](SubIndexes/Characters/RO-C.md)**: "Maybe it was just the one before you ended up on Halpha?"
+**[RO-C](SubIndexes/Characters/RO-C.md)**: "Maybe it was just the one before you ended up on [Halpha](SubIndexes/Places/Halpha.md)?"
 
 **[Nora](SubIndexes/Characters/Nora.md)**: "We can't really know, can we?"
 
