@@ -1,5 +1,8 @@
+---
+title: "Nora Honora"
+---
 
-	
+
 # Nora Honora
 ---
 
@@ -13,7 +16,7 @@
 > ### Details:
 > - **Name**: Nora Honora
 > - **Race**: Gene-spliced Deuman *(Deuman-cat mix)*
-> - **Height**: 155 cms 
+> - **Height**: 155 cms
 > - **Age**: 17 years old
 > - **Gender**: Woman
 > - **Occupation/Archetype**: ~~Waitress~~ *(retconned till further notice)*, ARKs defender, Ranger/gunner
@@ -21,17 +24,17 @@
 ---
 
 ### Personality:
-	
+
 Nora could be characterized as a plethora of things; many would say that she's a neurotic piece of work that is crude, mischievous and snarky. However, she often is very oblivious to this, *e.g:*
- 
- >She'd eat a meal and say that it tastes bad, not due to her wanting to be mean or condescending - but because she doesn't think lying would be beneficial to the chef's development. Because, for her, food does not have any emotional connection to the chef. 
+
+ >She'd eat a meal and say that it tastes bad, not due to her wanting to be mean or condescending - but because she doesn't think lying would be beneficial to the chef's development. Because, for her, food does not have any emotional connection to the chef.
 
 Though it is a nice underlying thought, she lacks the social know-how to express this in a good way without deeply offending most people, which inhibits her to befriend people.
 
 
 ---
 
-## Nora's past: 
+## Nora's past:
 #### (Spoilers, duh.)
 
 #### What she knows:
@@ -41,7 +44,7 @@ Though it is a nice underlying thought, she lacks the social know-how to express
 
 #### Growing up:
 
-[Nora](SubIndexes/Characters/Nora.md)'s childhood was quite calm, other than the occasional ARKs emergencies that paralleled her life. Her family consisted of her and her two parents, one being an ARKs defender and the other a café worker. As she was not old enough to go out into combat, [Nora](SubIndexes/Characters/Nora.md) instead studied for many years and learned about many different myths and philosophies, *(some of which even stuck with her after the crash on [Halpha](SubIndexes/Places/Halpha.md).)* 
+[Nora](SubIndexes/Characters/Nora.md)'s childhood was quite calm, other than the occasional ARKs emergencies that paralleled her life. Her family consisted of her and her two parents, one being an ARKs defender and the other a café worker. As she was not old enough to go out into combat, [Nora](SubIndexes/Characters/Nora.md) instead studied for many years and learned about many different myths and philosophies, *(some of which even stuck with her after the crash on [Halpha](SubIndexes/Places/Halpha.md).)*
 
 At the age of seventeen, [Nora](SubIndexes/Characters/Nora.md) began working alongside her parent at their café. [Nora](SubIndexes/Characters/Nora.md), being quite the diligent worker, was an exemplary waitress and was a near-natural at making different drinks and foods. The only plight being her poor social skills, leading to many failed interactions between her and customers, even so, she pulled through.
 
@@ -60,13 +63,11 @@ In the morning, [Nora](SubIndexes/Characters/Nora.md) had been found outside of 
 
 Shortly after her procedure, yet another incident happened resulting in mass-evacuations. [Nora](SubIndexes/Characters/Nora.md)'s parent who worked in the ARKs, had decided to send her away in an emergency pod to yet again save her life. Nobody knows what happened that led to these events - but, it resulted in the crash-down experience that so many [meteorns](SubIndexes/Concepts/Meteorns.md) share;
 
-[Nora](SubIndexes/Characters/Nora.md), being scared, confused and cold, awoke to the banging sound on her emergency pod. She'd not yet acclimatized to her senses from the procedure and she instinctively covered her fluffy ears to shield herself from the sound. The pod began hissing as it opened and it took a moment before she could fully see properly. She proceeded to stumble out of the pod, visibly confused and then passed out on the ground. 
+[Nora](SubIndexes/Characters/Nora.md), being scared, confused and cold, awoke to the banging sound on her emergency pod. She'd not yet acclimatized to her senses from the procedure and she instinctively covered her fluffy ears to shield herself from the sound. The pod began hissing as it opened and it took a moment before she could fully see properly. She proceeded to stumble out of the pod, visibly confused and then passed out on the ground.
 
-She would awake and have a few glimpses here and there as she was being pulled towards [an unfamiliar city](SubIndexes/Places/CentralCity.md). Around her was strangely alien landscape that'd she'd never seen before. Her head felt emptier than deep space and she could barely remember her own name. 
+She would awake and have a few glimpses here and there as she was being pulled towards [an unfamiliar city](SubIndexes/Places/CentralCity.md). Around her was strangely alien landscape that'd she'd never seen before. Her head felt emptier than deep space and she could barely remember her own name.
 The next few days were spent recovering at the hospital. Where she regained some memories, but *far* from all of them.
 
 After a swift recovery, [Nora](SubIndexes/Characters/Nora.md) began discovering [Central City](SubIndexes/Places/CentralCity.md), finding that she loved spending time in the command room reading a plethora of summaries, logs and stories from other ARK defenders. She also found her way back to the myths and stories aforementioned that she had read about in her younger years. The stories gave her some comfort, despite her not remembering why she felt that way.
 
 Her constant reading led to some justified boredom, to which she decided to remedy it by enrolling in the 26th ARKS division. There, she felt right at home - again having that feeling of comfort.
-
-

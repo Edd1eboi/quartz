@@ -1,3 +1,8 @@
+---
+title: "Nora, Gaia, Rosie and Glitch meet."
+---
+
+
 # Nora, Gaia, Rosie and Glitch meet.
 
 #### Participants: *[Nora](SubIndexes/Characters/Nora.md), [RO-C](SubIndexes/Characters/RO-C.md), Glitch, [Gaia Stellaria](SubIndexes/Characters/GaiaStellaria.md)*
@@ -20,7 +25,7 @@
 
 **[Rosie](SubIndexes/Characters/RO-C.md) reaches into the basket and offers [Nora](SubIndexes/Characters/Nora.md) a simple sandwich of sliced Aelio meats, lettuce, and tomato**: "I wasn't sure how long I'd be out here, so I made a few extras. You're welcome to them."
 
-**[Nora](SubIndexes/Characters/Nora.md)** hastily grabs it and begins chomping down on it: "Thisch tasthsches.. gh-great!" 
+**[Nora](SubIndexes/Characters/Nora.md)** hastily grabs it and begins chomping down on it: "Thisch tasthsches.. gh-great!"
 
 **[Rosie](SubIndexes/Characters/RO-C.md)**:	"Why thank you! It's nice hearing that from you since you used to be the one to give me food." She says cheerily.
 
@@ -34,7 +39,7 @@
 
 **[Nora](SubIndexes/Characters/Nora.md)**:	"Now-now - where'd you learn to make such great sandwiches?"
 
-**[Rosie](SubIndexes/Characters/RO-C.md)**:	"My Mother taught it to me." 
+**[Rosie](SubIndexes/Characters/RO-C.md)**:	"My Mother taught it to me."
 
 **[Nora](SubIndexes/Characters/Nora.md)**:	"Right... I wonder how my mother was..."
 
@@ -45,7 +50,7 @@
 **[Rosie](SubIndexes/Characters/RO-C.md)**:	"Sorry to hear that..."
 **[Rosie](SubIndexes/Characters/RO-C.md)**:	"Do you remember anything about yourself before you landed on Halpha?"
 
-**[Nora](SubIndexes/Characters/Nora.md)**:	"Oh, don't be! She might've been a serial killer for all I know..." 
+**[Nora](SubIndexes/Characters/Nora.md)**:	"Oh, don't be! She might've been a serial killer for all I know..."
 
 [Nora](SubIndexes/Characters/Nora.md) sighs deeply: "Can't really say that I can remember much."
 
@@ -67,7 +72,7 @@
 
 **Glitch:**	"My memory is-is-is still compromized. Just little flash-ash-ashes."
 
-**[Nora](SubIndexes/Characters/Nora.md) sighs**: "You and me both." 
+**[Nora](SubIndexes/Characters/Nora.md) sighs**: "You and me both."
 
 **Glitch:**	"Still managing to sur-ur-urvive despite everything. I'm a reasonably competent ARKs Defender."
 
@@ -118,7 +123,7 @@
 
 **[Rosie](SubIndexes/Characters/RO-C.md)**:	"Uwah~ I'm sorry..." She apologizes while holding her metal hair.
 
-**[Rosie](SubIndexes/Characters/RO-C.md)**: "Good thing my hair doubles as a helmet too..." 
+**[Rosie](SubIndexes/Characters/RO-C.md)**: "Good thing my hair doubles as a helmet too..."
 
 **Glitch:**	"I don't want to sit idle. Even though I crash every so often I'm still able to function the rest of the time."
 **Glitch:**	"I don't -feel- old...At least as much as I understand of how other people describe it."
@@ -197,7 +202,7 @@
 
 **[Rosie](SubIndexes/Characters/RO-C.md)**:	"Glitch! Are you okay??"
 
-**[Nora](SubIndexes/Characters/Nora.md) approaches the crashed CAST and kneels**: "Must've crashed?" 
+**[Nora](SubIndexes/Characters/Nora.md) approaches the crashed CAST and kneels**: "Must've crashed?"
 
 **[Rosie](SubIndexes/Characters/RO-C.md)**:	"Is she okay [Nora](SubIndexes/Characters/Nora.md)?"
 
@@ -230,7 +235,7 @@
 
 **[Rosie](SubIndexes/Characters/RO-C.md)**:	"What's a *Trimate*?"
 
-**[Gaia](SubIndexes/Characters/GaiaStellaria.md)**:	"Something Meteorn probably were familiar before stasis and its side-effects." 
+**[Gaia](SubIndexes/Characters/GaiaStellaria.md)**:	"Something Meteorn probably were familiar before stasis and its side-effects."
 
 **Glitch:**	"Do you also remember a dome?"
 
@@ -334,7 +339,7 @@
 
 **[Nora](SubIndexes/Characters/Nora.md)**:	"Lots of impressions - y'know? Difficult to remember."
 
-**[Gaia](SubIndexes/Characters/GaiaStellaria.md)**:	"I remember it clear as day." 
+**[Gaia](SubIndexes/Characters/GaiaStellaria.md)**:	"I remember it clear as day."
 
 **Glitch:**	"Redhead? Short? Dressed in black latex?"
 
@@ -396,7 +401,7 @@
 
 **Glitch:**	"I've got time for someone to fig-ig-igure out how. Not like I'm going to die of old-d-d-d age any time soon."
 
-**[Gaia](SubIndexes/Characters/GaiaStellaria.md)**:	"Perhaps, but software faults can develop on their own! Especially with photons involved." 
+**[Gaia](SubIndexes/Characters/GaiaStellaria.md)**:	"Perhaps, but software faults can develop on their own! Especially with photons involved."
 
 **Glitch:**	"I'm aware. They explained that-t-t to me when I was diagnosed with ICS."
 
@@ -416,7 +421,7 @@
 
 **[Gaia](SubIndexes/Characters/GaiaStellaria.md)**:	"Genetics."
 
-**[Nora](SubIndexes/Characters/Nora.md)**:	"Hm..." 
+**[Nora](SubIndexes/Characters/Nora.md)**:	"Hm..."
 
 **[Nora](SubIndexes/Characters/Nora.md) thinks for a minute before falling silent.**
 
@@ -428,13 +433,13 @@
 
 **[Rosie](SubIndexes/Characters/RO-C.md)**:	"So you're a [meteorn](SubIndexes/Places/Halpha.md#^Meteorns) too?"
 
-**[Gaia](SubIndexes/Characters/GaiaStellaria.md) snickered**: "Haha, I thought that was clear, since I hinted at failing memory. My bad." 
+**[Gaia](SubIndexes/Characters/GaiaStellaria.md) snickered**: "Haha, I thought that was clear, since I hinted at failing memory. My bad."
 
 **[Nora](SubIndexes/Characters/Nora.md)**:	"It was worth a try..."
 
 **[Rosie](SubIndexes/Characters/RO-C.md) giggles**: "It would probably make Central news if there was an amnesiac that wasn't a [meteorn](SubIndexes/Places/Halpha.md#^Meteorns)!"
 
-**[Gaia](SubIndexes/Characters/GaiaStellaria.md) smirked and said**: "That or they hit a rock without dying." 
+**[Gaia](SubIndexes/Characters/GaiaStellaria.md) smirked and said**: "That or they hit a rock without dying."
 
 **[Rosie](SubIndexes/Characters/RO-C.md) smiled**:	"Yeah, but at least they'd have a background history. Maybe..."
 
@@ -459,7 +464,7 @@
 
 **[Nora](SubIndexes/Characters/Nora.md)**:	"Huh... Could explain why I had such an easy time in the cafe."
 
-**Glitch:**	"I was just thinking how skill-ill-illfully you threw that chair into the pond, 
+**Glitch:**	"I was just thinking how skill-ill-illfully you threw that chair into the pond,
 
 **[Nora](SubIndexes/Characters/Nora.md) laughs softly at Glitch's joke.**
 
@@ -628,7 +633,7 @@
 
 **Glitch:**	"I try to keep busy, but I'll make a point of dropping by more of-of-often."
 
-**[Nora](SubIndexes/Characters/Nora.md)**:	"Please do~" 
+**[Nora](SubIndexes/Characters/Nora.md)**:	"Please do~"
 
 
 ### [Nora](SubIndexes/Characters/Nora.md) waved as she walked away.

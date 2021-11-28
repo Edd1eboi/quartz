@@ -1,3 +1,8 @@
+---
+title: "The Patrons"
+---
+
+
 # The Patrons
 ---
 > ### Details:
@@ -7,7 +12,7 @@
 > - **Alliance Type**: Roleplay
 > - **Alliance Time Zone**: CEST
 
---- 
+---
 
 > ### About:
 >-   Most of us are very gay. 🏳️‍🌈
@@ -18,6 +23,3 @@
 >- [Lilit](SubIndexes/Characters/Lilit.md)
 >- [Gaia Stellaria](SubIndexes/Characters/GaiaStellaria.md)
 >- [Gogo Mes](SubIndexes/Characters/GogoMes.md)
-
-
-

@@ -1,3 +1,8 @@
+---
+title: "Lilit And Rosie's First Interaction"
+---
+
+
 # Lilit and Rosie's First Interaction.
 
 #### Participants: *[Nora](SubIndexes/Characters/Nora.md), [RO-C](SubIndexes/Characters/RO-C.md) and [Lilit](SubIndexes/Characters/Lilit.md).*
@@ -38,7 +43,7 @@
 
 **[RO-C](SubIndexes/Characters/RO-C.md)**: "Oh really? That's too bad...."
 
-**[Nora](SubIndexes/Characters/Nora.md)**: "Yeah, I had a falling ou- Oh?" 
+**[Nora](SubIndexes/Characters/Nora.md)**: "Yeah, I had a falling ou- Oh?"
 
 #### *[Rosie](SubIndexes/Characters/RO-C.md) thought she saw something moving in the bushes and turns to look.*
 
@@ -46,7 +51,7 @@
 
 #### *[Nora](SubIndexes/Characters/Nora.md)  approached the bush*: "Who resides here?"
 
-**[Lilit](SubIndexes/Characters/Lilit.md)**: "Blub blub" 
+**[Lilit](SubIndexes/Characters/Lilit.md)**: "Blub blub"
 
 **[RO-C](SubIndexes/Characters/RO-C.md)**: "Umm... hello...??"
 
@@ -75,30 +80,30 @@
 
 **[Lilit](SubIndexes/Characters/Lilit.md)**: "Hello, little child."
 
-**[Lilit](SubIndexes/Characters/Lilit.md)**: "I'm Lady **[Lilit](SubIndexes/Characters/Lilit.md)** of Atlantis" 
+**[Lilit](SubIndexes/Characters/Lilit.md)**: "I'm Lady **[Lilit](SubIndexes/Characters/Lilit.md)** of Atlantis"
 **[Lilit](SubIndexes/Characters/Lilit.md)**: "You can call me **[Lilit](SubIndexes/Characters/Lilit.md)** though."
 
 **[RO-C](SubIndexes/Characters/RO-C.md)**: "Oh! Nice to meet you Ms. **[Lilit](SubIndexes/Characters/Lilit.md)**."
 
 **[Lilit](SubIndexes/Characters/Lilit.md)**: "Miss.. Finally being addressed with the respect I deserve"
-**[Lilit](SubIndexes/Characters/Lilit.md)**: "Thank you little one." 
+**[Lilit](SubIndexes/Characters/Lilit.md)**: "Thank you little one."
 
 **[Nora](SubIndexes/Characters/Nora.md)**: "Shut up Lily."
 
-**[Lilit](SubIndexes/Characters/Lilit.md)**: "Don't be crude **[Nora](SubIndexes/Characters/Nora.md)**, you don't want to scare your new friend away" 
+**[Lilit](SubIndexes/Characters/Lilit.md)**: "Don't be crude **[Nora](SubIndexes/Characters/Nora.md)**, you don't want to scare your new friend away"
 
 **[Nora](SubIndexes/Characters/Nora.md)**: "I've known Rosie for a while actually~"
 
 **[RO-C](SubIndexes/Characters/RO-C.md)**: "Yep! Yep!" *Rosie Nodded.*
 
-**[Lilit](SubIndexes/Characters/Lilit.md)**: "Well, good to see you hang out with someone your age for once." 
+**[Lilit](SubIndexes/Characters/Lilit.md)**: "Well, good to see you hang out with someone your age for once."
 
 **[Nora](SubIndexes/Characters/Nora.md)**: "Oh shut it, fish lady."
 
 **[RO-C](SubIndexes/Characters/RO-C.md)**: "So **[Lilit](SubIndexes/Characters/Lilit.md)**... since you're a *lady*... does that mean you're royalty?"
 
 **[Lilit](SubIndexes/Characters/Lilit.md)**: "Yes, somewhere I am royalty, not here though really."
-**[Lilit](SubIndexes/Characters/Lilit.md)**: "At least, nobody here acknowledges my status. Annoyingly enough..." 
+**[Lilit](SubIndexes/Characters/Lilit.md)**: "At least, nobody here acknowledges my status. Annoyingly enough..."
 
 **[Nora](SubIndexes/Characters/Nora.md)**: "She's a [Meteorn](SubIndexes/Concepts/Meteorns.md) like me."
 
@@ -133,7 +138,7 @@
 
 **[RO-C](SubIndexes/Characters/RO-C.md)**: "Yeah! Or did you swim around? Maybe even had your own cars?" *She asks, with wonder in her eyes.*
 
-**[Lilit](SubIndexes/Characters/Lilit.md)**: "Either works. Depends on what you're feeling." 
+**[Lilit](SubIndexes/Characters/Lilit.md)**: "Either works. Depends on what you're feeling."
 **[Lilit](SubIndexes/Characters/Lilit.md)**: "We had cars, kinda, more like pods. But I crashed like a bunch of my dads pods so he banned me from using them"
 **[Lilit](SubIndexes/Characters/Lilit.md)**: "I think anyways, kinda hazy memory. Maybe it was just one."
 
@@ -159,7 +164,7 @@
 
 **[Nora](SubIndexes/Characters/Nora.md)**: "Oh- Well- You can't bully me like this."
 
-**[Lilit](SubIndexes/Characters/Lilit.md)**: *She imitates [Nora](SubIndexes/Characters/Nora.md)'s voice*: "Om-nom-nom, dirt so yummy, **[Nora](SubIndexes/Characters/Nora.md)** like-y." 
+**[Lilit](SubIndexes/Characters/Lilit.md)**: *She imitates [Nora](SubIndexes/Characters/Nora.md)'s voice*: "Om-nom-nom, dirt so yummy, **[Nora](SubIndexes/Characters/Nora.md)** like-y."
 
 **[Nora](SubIndexes/Characters/Nora.md)**: "I will grind dirt in your eyes, old lady." **[Nora](SubIndexes/Characters/Nora.md)** said, picking up a handful of dirt menacingly.
 
@@ -202,7 +207,7 @@
 
 **[Nora](SubIndexes/Characters/Nora.md)**: "That's kind of sad when you think about it."
 
-**[Lilit](SubIndexes/Characters/Lilit.md)**: "Yeah, so make sure you don't annoy me too much so I can remember you fondly." 
+**[Lilit](SubIndexes/Characters/Lilit.md)**: "Yeah, so make sure you don't annoy me too much so I can remember you fondly."
 **[Lilit](SubIndexes/Characters/Lilit.md)**: "Because I will remember you forevaaaaaaa~"
 
 **[Nora](SubIndexes/Characters/Nora.md)**: "If you say you're around two thousand years old then that means I've lived for less than a percent of your lifespan."
@@ -279,7 +284,7 @@
 
 **[RO-C](SubIndexes/Characters/RO-C.md)**: Rosie smiles at **[Lilit](SubIndexes/Characters/Lilit.md)**'s praise "My mom taught me this and some of the shows I watch"
 
-**[Lilit](SubIndexes/Characters/Lilit.md)**: "Oh, what shows? My little photon? I love that show." 
+**[Lilit](SubIndexes/Characters/Lilit.md)**: "Oh, what shows? My little photon? I love that show."
 
 #### *[Lilit](SubIndexes/Characters/Lilit.md) side-eyes [Nora](SubIndexes/Characters/Nora.md)*: "Found a snack, I see."
 
@@ -299,7 +304,7 @@
 
 **[Nora](SubIndexes/Characters/Nora.md)**: "Oh, what's that?"
 
-**[RO-C](SubIndexes/Characters/RO-C.md)**: "Uh oh!" 
+**[RO-C](SubIndexes/Characters/RO-C.md)**: "Uh oh!"
 
 #### *Rosie then open's up the MAG's projected keyboard and starts typing something in.*
 

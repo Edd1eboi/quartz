@@ -1,7 +1,12 @@
+---
+title: "Discord Checklist"
+---
+
+
 # Things to be done on the Discord/needs deciding on:
 ---
 
-#### Regarding these things, I won't implement them until we have a clear idea of what we want and a solid baseline for the idea. 
+#### Regarding these things, I won't implement them until we have a clear idea of what we want and a solid baseline for the idea.
 
 
 ---
@@ -14,7 +19,7 @@
 	- *What values does this community have regarding role-play in PSO2NGS?*
 		- Currently I'm thinking that this community will be mostly-lore abiding, meaning that the RP would mostly consist of interactions and events that could be explained within existing canon, and that the basis for personal canon shouldn't stem from outside of PSO2, but rather from the game's existing canon.
 		- I think RP should be cooperative and I think that we should have a system in place for allowing for discussion in a constructive and helpful way. Thereby eliminating the problems of having some people go off on their own tangents and unpurposely *(or purposely)* excluding others since the goal is that everyone should be able to cooperate without feeling the "need" to have to break lore.
-			- *Sub-point to this:* This isn't something that I think should be a black-and-white thing, as long as **everyone** gets along with the ideas that comes up, then anything goes. 
+			- *Sub-point to this:* This isn't something that I think should be a black-and-white thing, as long as **everyone** gets along with the ideas that comes up, then anything goes.
 
 		- Civility is an important thing aswell, I do not think that we should discourage others from coming up with "crazy" ideas, but we need to relate to the lore, so it's a fine balance that we've all got to help reach.
 
@@ -57,7 +62,7 @@
 
 ---
 
-### Personal roles: 
+### Personal roles:
 
 > Status: Done! *(-ish)*
 

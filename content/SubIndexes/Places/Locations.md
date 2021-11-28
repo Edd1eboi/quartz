@@ -1,4 +1,9 @@
-# Places
+---
+title: "Locations"
+---
+
+
+# Locations
 ---
 
 - [Halpha](SubIndexes/Places/Halpha.md)

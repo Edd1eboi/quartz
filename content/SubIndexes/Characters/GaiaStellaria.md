@@ -1,3 +1,8 @@
+---
+title: "Gaia Stellaria"
+---
+
+
 # Gaia Stellaria
 
 ---
@@ -20,9 +25,9 @@
 > -   **Weaponry:** Generally equipped with a prototype she made herself. Often a form of ranged weapon or knuckle weapons.
 > -   **Pronouns:** She/her, but no preference
 
---- 
+---
 
- ## Background: 
+ ## Background:
  Tianea is an orphan from another ship.
 
 Daughter to a pair of ace pilots(They didn't crash that often). Tianea lived a rather secluded existence at home while her parents were away on assignments for prolonged periods.
