@@ -1,4 +1,7 @@
-set /p name="What is your update?   "
+@echo off
+echo "What is your update, bitch?"
+set /p name=
+
 
 git add .
 git commit -m "%name%"
