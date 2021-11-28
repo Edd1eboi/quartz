@@ -11,6 +11,10 @@ h1, h2, h3, h4, ol, ul, thead {
   color: var(--dark)
 }
 
+h1 {
+  text-align: center;
+}
+
 img[src$="centerme"] {
 display: block;
 margin-left: auto;
@@ -28,7 +32,7 @@ p, ul, text {
 
 a {
   font-family: Inter;
-  font-weight: 700;
+  font-weight: 500;
   font-size: 1em;
   text-decoration: none;
   transition: all 0.2s ease;
@@ -130,8 +134,8 @@ td, th {
 
 article a {
   font-family: Source Sans Pro;
-  font-weight: 600;
-  text-decoration: underline;
+  font-weight: 500;
+  text-decoration: none;
   text-decoration-color: var(--tertiary);
   text-decoration-thickness: .15em;
 }
