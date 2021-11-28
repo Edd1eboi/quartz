@@ -1,7 +1,7 @@
 <h3>Backlinks</h3>
 <ul class="backlinks">
     {{$url := urls.Parse .Site.BaseURL }}
-    {{$host := strings.TrimRight.lastIndexOf "/" $url.Path }}
+    {{$host := strings.TrimRight "/*/" $url.Path }}
     {{$curPage := strings.TrimPrefix $host (strings.TrimRight "/" .Page.RelPermalink) }}
     {{$inbound := index $.Site.Data.linkIndex.index.backlinks $curPage}}
     {{if $inbound}}
