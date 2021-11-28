@@ -18,12 +18,9 @@ Halpha is home to a great amount of people, some of whom have lived there for ge
 
 ### Native Halphans
 Native Halphans are those who've lived on [Halpha](SubIndexes/Places/Halpha.md) all of their lives, and even have family going back a long time.
-^NativeHalphans
+
 
 ### Meteorns
-
-^e06dd7
-
 Meteorns are people who've crashed onto [Halpha](SubIndexes/Places/Halpha.md), typically in smaller pods.
 ^Meteorns
 
