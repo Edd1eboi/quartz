@@ -7,7 +7,7 @@
     {{if $inbound}}
     {{- range $inbound -}}
     <li>
-        <a href="{{index . "source"}}">{{"source" . Title}}</a>
+        <a href="{{index . "source"}}">{{console.log(document.title)}}</a>
     </li>
     {{- end -}}
     {{else}}
