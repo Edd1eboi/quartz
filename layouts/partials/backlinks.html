@@ -1,13 +1,13 @@
 <h3>Backlinks</h3>
 <ul class="backlinks">
     {{$url := urls.Parse .Site.BaseURL }}
-    {{$host := strings.TrimLeft "/" $url.Path }}
-    {{$curPage := strings.TrimPrefix $host (strings.TrimLeft "/" .Page.RelPermalink) }}
+    {{$host := strings.TrimRight "/" $url.Path }}
+    {{$curPage := strings.TrimPrefix $host (strings.TrimRight "/" .Page.RelPermalink) }}
     {{$inbound := index $.Site.Data.linkIndex.index.backlinks $curPage}}
     {{if $inbound}}
     {{- range $inbound -}}
     <li>
-        <a href="{{index . "source"}}">{{index . "source"}}</a>
+        <a href="{{index . "source"}}">{{.Title}}</a>
     </li>
     {{- end -}}
     {{else}}
