@@ -15,7 +15,6 @@
 > -   **Occupation/Archetype:** Operative - Healer, Assassin
 > -   **Pronouns:** She/They
 
-^e1a372
 
 ---
 

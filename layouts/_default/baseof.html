@@ -5,6 +5,13 @@
 
 <body>
 {{ block "main" . }}
+
+<div class="page-end">
+    <div class="backlinks-container">
+        {{partial "backlinks.html" .}}
+    </div>
+    <div>
+
 {{ end }}
 </body>
 </html>
