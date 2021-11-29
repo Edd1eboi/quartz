@@ -12,7 +12,6 @@ title: "Lilit And Rosie's First Interaction"
 
 ### ***[Nora](SubIndexes/Characters/Nora.md)*** *sees* ***[RO-C](SubIndexes/Characters/RO-C.md)*** *approaching:* "Hey Ross~"
 
-^00bbb3
 
 **[Nora](SubIndexes/Characters/Nora.md)**: "How's it going?"
 

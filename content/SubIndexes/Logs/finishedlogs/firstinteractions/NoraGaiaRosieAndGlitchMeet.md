@@ -553,7 +553,7 @@ title: "Nora, Gaia, Rosie and Glitch meet."
 
 **[Gaia](SubIndexes/Characters/GaiaStellaria.md)**: "Well then. It was nice meeting you, miss Clements."
 
-**[Nora](SubIndexes/Characters/Nora.md)**:	"See ya some other time, [Ross](SubIndexes/Logs/finishedlogs/firstinteractions/LilitROCsFirstInteraction.md#^00bbb3)!"
+**[Nora](SubIndexes/Characters/Nora.md)**:	"See ya some other time, [Ross](SubIndexes/Logs/finishedlogs/firstinteractions/LilitROCsFirstInteraction.md)!"
 
 **[Rosie](SubIndexes/Characters/RO-C.md) sighs at [Nora](SubIndexes/Characters/Nora.md)'s prodding then smiles mischievously**: "I'll see you later... *Nose*~"
 
