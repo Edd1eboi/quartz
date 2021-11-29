@@ -65,8 +65,8 @@
       .on("end", enableDrag ? dragended : noop);
   }
 
-  const height = 250
-  const width = 917.5
+  const height = 500
+
 
   const simulation = d3.forceSimulation(data.nodes)
     .force("charge", d3.forceManyBody().strength(-20))
