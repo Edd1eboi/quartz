@@ -10,6 +10,7 @@ title: "RP-Logs"
 
 - *First interactions:*
 	- [Lilit and RO-C's First Interaction](SubIndexes/Logs/finishedlogs/firstinteractions/LilitROCsFirstInteraction.md) *(Featuring [Nora](SubIndexes/Characters/Nora.md)~)*
+	- [Nora, Gaia, Rosie, and Glitch Meet](SubIndexes/Logs/finishedlogs/firstinteractions/NoraGaiaRosieAndGlitchMeet.md)
 
 ---
 
