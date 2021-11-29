@@ -1,10 +1,5 @@
 ---
 title: "Lady Lilit Lichenaes of Atlantis and Mercia III"
-
-description:
-
-<meta property="og:title" content="Open Graph Meta Tags: Lilit comes from the ancient fish kingdom known as Atlantis. She comes from a long line regents. Her father, The King of Atlantis, has been holding on to the throne to a long time. One day, Lilit's unbridled rage at her father's long reign eventually comes to a head when she decides to overthrow him. However, her attempt is unsuccessful and she must quickly flee the fish kingdom. In a shady, probably not legal, deal she acquired some legs and quickly began making her way to land. Above the sea she discovered a whole new world of weaponry and people, and made it her mission to learn from them and grow as powerful as she could." />
-
 ---
 
 > ## ''You don't wanna know what I did to get these legs."
