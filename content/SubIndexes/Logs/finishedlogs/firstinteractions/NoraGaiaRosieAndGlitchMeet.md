@@ -7,6 +7,8 @@ title: "Nora, Gaia, Rosie and Glitch meet."
 
 #### Place: [Halpha](SubIndexes/Places/Halpha.md), [Central City](SubIndexes/Places/CentralCity.md), by the park next to the café.
 
+---
+
 ### **[Nora](SubIndexes/Characters/Nora.md)** approaches Rosie, who's sat on a picnic cloth:
 **[Nora](SubIndexes/Characters/Nora.md)**: "Hey there little one~"
 
