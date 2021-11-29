@@ -2,11 +2,6 @@
 title: "Rosie"
 ---
 
-
-# RO-C (Rosie)
-
----
-
  > ## "Uwah!~"
 
 ---

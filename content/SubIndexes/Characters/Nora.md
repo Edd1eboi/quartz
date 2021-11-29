@@ -3,9 +3,6 @@ title: "Nora Honora"
 ---
 
 
-# Nora Honora
----
-
 > ## "Did someone say *fire*? No...? ...must've misheard tea - coming up!~"
 
 ---

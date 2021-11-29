@@ -1,8 +1,4 @@
 ---
-title: "Alliances"
----
-
-
-# Alliances!
+title: "Alliances!"
 ---
 - [The Patrons](SubIndexes/Alliances/ThePatrons.md)

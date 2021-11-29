@@ -1,9 +1,6 @@
 ---
-title: "Characters"
+title: "Characters:"
 ---
-
-
-## Characters:
 
 
 - **From [The Patrons](SubIndexes/Alliances/ThePatrons.md)**:

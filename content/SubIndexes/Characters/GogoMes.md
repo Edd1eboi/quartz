@@ -3,9 +3,6 @@ title: "Gogo Mes"
 ---
 
 
-# Gogo Mes
-
----
 
 > ## "If you have an issue with something, you can count on me!"
 

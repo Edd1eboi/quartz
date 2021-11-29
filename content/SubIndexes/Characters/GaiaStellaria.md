@@ -2,11 +2,6 @@
 title: "Gaia Stellaria"
 ---
 
-
-# Gaia Stellaria
-
----
-
 ## *''I don't know what I am doing, just making stuff up as I go and I am pretty good at that.''*
 
 ---

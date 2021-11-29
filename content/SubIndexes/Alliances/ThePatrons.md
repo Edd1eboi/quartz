@@ -2,9 +2,6 @@
 title: "The Patrons"
 ---
 
-
-# The Patrons
----
 > ### Details:
 > - **Alliance Name**: The Patrons
 > - **Ship**: 03 - Thorn

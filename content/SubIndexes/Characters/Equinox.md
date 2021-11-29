@@ -2,9 +2,6 @@
 title: "Equinox"
 ---
 
-
-# Equinox
----
 ![equi](https://raw.githubusercontent.com/Edd1ee/quartz/hugo/content/Images/Screenshots/equinox.jpg?style=centerme)
 
 ---

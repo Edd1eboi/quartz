@@ -2,9 +2,6 @@
 title: "Lilit And Rosie's First Interaction"
 ---
 
-
-# Lilit and Rosie's First Interaction.
-
 #### Participants: *[Nora](SubIndexes/Characters/Nora.md), [RO-C](SubIndexes/Characters/RO-C.md) and [Lilit](SubIndexes/Characters/Lilit.md).*
 
 

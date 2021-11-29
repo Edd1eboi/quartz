@@ -3,9 +3,6 @@ title: "Central City"
 ---
 
 
-# Central City
----
-
 ### About the city:
 
 [Central City](SubIndexes/Places/CentralCity.md) is the capital of [Aelio](SubIndexes/Places/Aelio.md), where most [Native Halphans](SubIndexes/Places/Halpha.md) and [Meteorns](SubIndexes/Places/Halpha.md) reside (and a lot of cats)!

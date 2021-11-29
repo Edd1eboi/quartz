@@ -2,10 +2,6 @@
 title: "Locations"
 ---
 
-
-# Locations
----
-
 - [Halpha](SubIndexes/Places/Halpha.md)
 	- [Aelio](SubIndexes/Places/Aelio.md)
 		- [Central City](SubIndexes/Places/CentralCity.md)

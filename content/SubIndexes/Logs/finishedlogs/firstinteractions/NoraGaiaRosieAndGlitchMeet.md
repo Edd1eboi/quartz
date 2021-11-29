@@ -2,9 +2,6 @@
 title: "Nora, Gaia, Rosie and Glitch meet."
 ---
 
-
-# Nora, Gaia, Rosie and Glitch meet.
-
 #### Participants: *[Nora](SubIndexes/Characters/Nora.md), [RO-C](SubIndexes/Characters/RO-C.md), Glitch, [Gaia Stellaria](SubIndexes/Characters/GaiaStellaria.md)*
 
 

@@ -2,9 +2,6 @@
 title: "RP-Logs"
 ---
 
-
-# RP-Logs
-
 ### *If there are any typos or errors, feel free to send a message in #log-submission if there are any issues.*
 
 ---
