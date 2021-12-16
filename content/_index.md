@@ -12,3 +12,5 @@ title: "The 26th ARKs Division's PSO2RP Wiki!"
 
 
 ### The Discord [Checklist](OffTopicIndexes/DiscordChecklist.md)!
+
+#### [Gshade Settings!](OffTopicIndexes/GshadeSettings.md)
