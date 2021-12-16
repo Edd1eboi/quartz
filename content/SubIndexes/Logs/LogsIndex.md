@@ -11,7 +11,10 @@ title: "RP-Logs"
 - *First interactions:*
 	- [Lilit and RO-C's First Interaction](SubIndexes/Logs/finishedlogs/firstinteractions/LilitROCsFirstInteraction.md) *(Featuring [Nora](SubIndexes/Characters/Nora.md)~)*
 	- [Nora, Gaia, Rosie, and Glitch Meet](SubIndexes/Logs/finishedlogs/firstinteractions/NoraGaiaRosieAndGlitchMeet.md)
-	- [Nora and Yumesaki chat about Retem!](SubIndexes/Logs/finishedlogs/firstinteractions/NoraAndYumesakiChatAboutRetem..md)
+
+
+- *Social RP:*
+	- [Nora and Yumesaki chat about Retem!](SubIndexes/Logs/finishedlogs/SocialRP/NoraAndYumesakiChatAboutRetem..md)
 
 ---
 

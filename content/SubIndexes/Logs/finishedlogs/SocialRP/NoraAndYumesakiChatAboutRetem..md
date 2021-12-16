@@ -15,6 +15,7 @@ title: "Nora and Yumesaki chat about Retem!"
 **[Nora](SubIndexes/Characters/Nora.md) takes off her mask**: "Well, I've got an assignment by the commander - to go to Retem."
 
 **[Yumesaki](SubIndexes/Characters/Yumesaki.md)**:	"Oh yeah? I heard command wanted defenders to investigate Retem. I haven't recieved orders for it yet though."
+
 **[Yumesaki](SubIndexes/Characters/Yumesaki.md)**:	"I was about to grab a bite to eat from the cafe. Wanna join me for a bit?"
 
 **[Nora](SubIndexes/Characters/Nora.md)**:	"Yeah sure!~"
@@ -42,11 +43,13 @@ title: "Nora and Yumesaki chat about Retem!"
 **[Yumesaki](SubIndexes/Characters/Yumesaki.md)**:	"Ugh... I **HATE** hot weather..." she said, emphasizing the word hate.
 
 **[Nora](SubIndexes/Characters/Nora.md)**:	"Contrary to popular belief, you're not supposed to dress lightly in the desert, in fact you're supposed to cover everything."
+
 **[Nora](SubIndexes/Characters/Nora.md)**:	"It's to keep your moisture in so you don't die of dehydration~"
 
 **[Yumesaki](SubIndexes/Characters/Yumesaki.md)**:	"*Wha???* That sounds like the opposite of what you want to do in hot weather!"
 
 **[Nora](SubIndexes/Characters/Nora.md)**:	"It's better to cover your skin from the sun so you don't get burned~"
+
 **[Nora](SubIndexes/Characters/Nora.md)**:	"It's also so that your sweat gets absorbed in the fabric and cools you down!"
 
 **[Yumesaki](SubIndexes/Characters/Yumesaki.md)**:	"That sounds like special equipment for that kind of environment..."
@@ -54,6 +57,7 @@ title: "Nora and Yumesaki chat about Retem!"
 **[Nora](SubIndexes/Characters/Nora.md)**:	"It does! Want to see what I'm going in?"
 
 #### [Nora](SubIndexes/Characters/Nora.md) doesn't wait for a response and instead puts on her desert suit:
+
 **[Nora](SubIndexes/Characters/Nora.md)**:	"Tada~"
 
 
