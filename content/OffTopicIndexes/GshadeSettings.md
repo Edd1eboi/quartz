@@ -3,7 +3,8 @@ title: "Gshade Settings!"
 ---
 
 # Note!!! 
-### Replace the *.txt* with *.ini* to use the settings in Gshade *(Problems with ObsidianMD and showing .inis in filestructures.)*
+### To download the .INIs, you just right-click the "raw" button on the pages and click "save link as..."!
 
 - Eddie's settings:
-	
+	- [Retem Settings](https://github.com/Edd1ee/The26thArksDivision/blob/66467aaaa0afb334646d8ce876170cca79cbd6da/content/OffTopicIndexes/GshadeSettings/EddiesGshadeSettings%20-%20Retem.ini)
+	- [Aelio (default) settings](https://github.com/Edd1ee/The26thArksDivision/blob/66467aaaa0afb334646d8ce876170cca79cbd6da/content/OffTopicIndexes/GshadeSettings/EddiesGshadeSettings.ini)
