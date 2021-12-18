@@ -3,6 +3,7 @@ title: "Nora's Desert Expedition"
 ---
 
 #### [Nora](SubIndexes/Characters/Nora.md), leaning towards one of the beams of the bridge, sees **[Yumesaki](SubIndexes/Characters/Yumesaki.md)**: cross over: "Hey there!"
+
 ![DE](https://github.com/Edd1ee/The26thArksDivision/blob/hugo/content/Images/Logs/DesertExpedition/2.png?raw=true?style=centerme)
 
 ![DE](https://github.com/Edd1ee/The26thArksDivision/blob/hugo/content/Images/Logs/DesertExpedition/1.png?raw=true?style=centerme)

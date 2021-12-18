@@ -5,7 +5,7 @@ title: "Nora and Yumesaki chat about Retem!"
 #### Participants: *[Nora](SubIndexes/Characters/Nora.md) and [Yumesaki](SubIndexes/Characters/Yumesaki.md)*
 
 
-#### Place: [[SubIndexes/Places/Retem/Retem]]
+#### Place: [Retem](SubIndexes/Places/Retem/Retem.md)]
 
 #### Participants: [Nora](SubIndexes/Characters/Nora.md) and [Yumesaki](SubIndexes/Characters/Yumesaki.md).
 
