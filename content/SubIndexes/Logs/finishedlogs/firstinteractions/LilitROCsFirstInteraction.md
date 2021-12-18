@@ -5,7 +5,7 @@ title: "Lilit And Rosie's First Interaction"
 #### Participants: *[Nora](SubIndexes/Characters/Nora.md), [RO-C](SubIndexes/Characters/RO-C.md) and [Lilit](SubIndexes/Characters/Lilit.md).*
 
 
-#### Place: [Halpha](SubIndexes/Places/Halpha.md), [Central City](SubIndexes/Places/CentralCity.md), by the café.
+#### Place: [Halpha](SubIndexes/Places/Halpha.md), [Central City](SubIndexes/Places/Aelio/CentralCity.md), by the café.
 ---
 
 **[RO-C](SubIndexes/Characters/RO-C.md)**: "Hiya **[Nora](SubIndexes/Characters/Nora.md)**!!"

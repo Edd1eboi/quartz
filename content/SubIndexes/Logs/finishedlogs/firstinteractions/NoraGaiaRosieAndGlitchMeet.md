@@ -5,7 +5,7 @@ title: "Nora, Gaia, Rosie and Glitch meet."
 #### Participants: *[Nora](SubIndexes/Characters/Nora.md), [RO-C](SubIndexes/Characters/RO-C.md), Glitch, [Gaia Stellaria](SubIndexes/Characters/GaiaStellaria.md)*
 
 
-#### Place: [Halpha](SubIndexes/Places/Halpha.md), [Central City](SubIndexes/Places/CentralCity.md), by the park next to the café.
+#### Place: [Halpha](SubIndexes/Places/Halpha.md), [Central City](SubIndexes/Places/Aelio/CentralCity.md), by the park next to the café.
 
 ---
 
@@ -549,7 +549,7 @@ title: "Nora, Gaia, Rosie and Glitch meet."
 
 **[Nora](SubIndexes/Characters/Nora.md)**:	"Oh yeah, [Rosie](SubIndexes/Characters/RO-C.md)'s tiny."
 
-**[Rosie](SubIndexes/Characters/RO-C.md) replies with a smile**: "Yeah, I'm only thirteen, so I'm allowed some freedom around [Central](SubIndexes/Places/CentralCity.md), but I still have to keep in touch with my parents."
+**[Rosie](SubIndexes/Characters/RO-C.md) replies with a smile**: "Yeah, I'm only thirteen, so I'm allowed some freedom around [Central](SubIndexes/Places/Aelio/CentralCity.md), but I still have to keep in touch with my parents."
 
 **[Rosie](SubIndexes/Characters/RO-C.md) finishes gathering her belongings and looks back to the group**:	"Bye everyone~ It was nice meeting you Ms. **[Gaia](SubIndexes/Characters/GaiaStellaria.md)**:~"
 

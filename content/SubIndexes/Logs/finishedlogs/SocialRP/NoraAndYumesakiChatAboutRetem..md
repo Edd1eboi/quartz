@@ -2,9 +2,14 @@
 title: "Nora and Yumesaki chat about Retem!"
 ---
 
+#### Participants: *[Nora](SubIndexes/Characters/Nora.md) and [Yumesaki](SubIndexes/Characters/Yumesaki.md)*
+
+
+#### Place: [[SubIndexes/Places/Retem/Retem]]
+
 #### Participants: [Nora](SubIndexes/Characters/Nora.md) and [Yumesaki](SubIndexes/Characters/Yumesaki.md).
 
-#### Place(s): [Halpha](SubIndexes/Places/Halpha.md), [Central City](SubIndexes/Places/CentralCity.md), by the café & Retem Bridge.
+#### Place(s): [Halpha](SubIndexes/Places/Halpha.md), [Central City](SubIndexes/Places/Aelio/CentralCity.md), by the café & Retem Bridge.
 
 **[Yumesaki](SubIndexes/Characters/Yumesaki.md)**:	"Oh Hiya **[Nora](SubIndexes/Characters/Nora.md)**!"
 
@@ -151,7 +156,7 @@ title: "Nora and Yumesaki chat about Retem!"
 
 **[Nora](SubIndexes/Characters/Nora.md)**:	"Let's go!~"
 
-#### The two shortlings exit the back gate of [Central City](SubIndexes/Places/CentralCity.md), with an heading to the Retem bridge.
+#### The two shortlings exit the back gate of [Central City](SubIndexes/Places/Aelio/CentralCity.md), with an heading to the Retem bridge.
 
 **The rain began pouring right as [Nora](SubIndexes/Characters/Nora.md) said**:	"It's nice, isn't it?"
 **[Nora](SubIndexes/Characters/Nora.md)**: "Well, nevermind."
