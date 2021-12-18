@@ -66,7 +66,7 @@ title: "Nora's Desert Expedition"
 
 **[Yumesaki](SubIndexes/Characters/Yumesaki.md)**:	"Lotta rocks that's for sure..." she says as she chuckles
 
-![DE](https://github.com/Edd1ee/The26thArksDivision/blob/hugo/content/Images/Logs/DesertExpedition/4.png?raw=true?style=centerme)
+![DE](https://github.com/Edd1ee/https://github.com/Edd1ee/The26thArksDivision/blob/hugo/content/Images/Logs/DesertExpedition/6.png?raw=true?style=centerme)
 
 **[Nora](SubIndexes/Characters/Nora.md)**:	"Very solid - let's go to the Ryuker Device then."
 
