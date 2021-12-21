@@ -114,7 +114,7 @@ title: "Nora's Desert Expedition"
 
 **[Nora](SubIndexes/Characters/Nora.md)**:	"It's not too far, but we can cool off in the city."
 
-*[Nora](SubIndexes/Characters/Nora.md) uses the nearby Ryuker Device and heads to th-
+#### *[Nora](SubIndexes/Characters/Nora.md) uses the nearby Ryuker Device and heads to th-*
 
 **[Yumesaki](SubIndexes/Characters/Yumesaki.md)**:	**"Wait!""**
 
