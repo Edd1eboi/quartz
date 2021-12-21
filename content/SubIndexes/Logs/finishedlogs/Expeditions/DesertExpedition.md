@@ -98,7 +98,7 @@ title: "Nora's Desert Expedition"
 
 **[Nora](SubIndexes/Characters/Nora.md)**:	"Try and get a few of those fragments."
 
-![DE](https://github.com/Edd1ee/The26thArksDivision/blob/hugo/content/Images/DesertExpedition/Logs/6.png?raw=true?style=centerme)
+![DE](https://raw.githubusercontent.com/Edd1ee/The26thArksDivision/hugo/content/Images/Logs/DesertExpedition/6.png)
 
 **[Yumesaki](SubIndexes/Characters/Yumesaki.md)**:	"I think I picked up all the fragments nearby."
 
