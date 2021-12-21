@@ -17,9 +17,9 @@ The experiments ran showed that the possibilities for this technology appear to 
 
 ## Introduction
 
-![Stellar Fragment](Images/Logs/DesertExpedition/6.png)
+![Stellar Fragment](https://raw.githubusercontent.com/Edd1ee/The26thArksDivision/hugo/content/Images/Logs/DesertExpedition/6.png)
 
-The fragments appear to be of a material that allows them to be super-charged with static electricity, allowing them to float uninhibited in the air. 
+The fragments appear to be of a material th	at allows them to be super-charged with static electricity, allowing them to float uninhibited in the air. 
 The current understanding of Stellar Fragments at this point is lacking. So, my goal is to gain a deeper understanding of them and their potential for carrying electric charges. I've been investigating the phenomena of these fragments since they seem to have properties desirable for furthering our defense capabilities against the threat of DOLLs. 
 I hypothesize that the Stellar Fragments are composed of materials that allow charges to be built similarly to batteries, just at a larger scale. Possibly useful for the mega-weapon the commander is constructing.
 
