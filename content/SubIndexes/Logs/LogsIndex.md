@@ -17,7 +17,8 @@ title: "RP-Logs"
 	- [Nora and Yumesaki chat about Retem!](SubIndexes/Logs/finishedlogs/SocialRP/NoraAndYumesakiChatAboutRetem..md)
 
 - *Expeditions:*
-	- [Desert Expedition](SubIndexes/Logs/finishedlogs/Expeditions/DesertExpedition.md)
+	- [Desert Expedition](SubIndexes/Logs/finishedlogs/Expeditions/DesertExpedition.md) 
+		- [Stellar Fragments Study](SubIndexes/Logs/finishedlogs/Expeditions/StellarFragmentsPaper.md)
 
 ---
 
