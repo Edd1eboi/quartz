@@ -2,17 +2,17 @@
 Title: "Project Yggdrasil"
 ---
 
-## *//Welcome to ARKSNet: Global Information Database. Please enter a command to access files. If you need help, please enter [-help]//*
+## *// Welcome to ARKSNet: Global Information Database. Please enter a command to access files. If you need help, please enter [-help] //*
 
 ------
 > ##### -Access [Project Yggdrasil](SubIndexes/Logs/finishedlogs/ArksLogs/ProjectYggdrasil.md)
 #### *...*
-#### *//Unknown Item//*
+## *// Unknown Item //*
 
 > ##### -Access [Project Yggdrasil](SubIndexes/Logs/finishedlogs/ArksLogs/ProjectYggdrasil.md)
 
 #### *...*
-## *//You are attempting to access a security level [ABYSS] (TOP SECRET) database. Please enter the proper Security Credentials before proceeding.//*
+## *// You are attempting to access a security level [ABYSS] (TOP SECRET) database. Please enter the proper Security Credentials before proceeding. //*
 
 -----
 
@@ -22,7 +22,7 @@ Title: "Project Yggdrasil"
 *...*
 *...*
 
-## *//Attempting to impersonate a member of -[REDACTED]- is punishable by immediate termination, you have 30 seconds to enter the correct keyphrase before an ARKS task force is deployed to your location.//*
+## *// Attempting to impersonate a member of -[REDACTED]- is punishable by immediate termination, you have 30 seconds to enter the correct keyphrase before an ARKS task force is deployed to your location. //*
 
 ----
 
@@ -33,10 +33,10 @@ Title: "Project Yggdrasil"
 *...*
 *...*
 
-## *//ACCESS GRANTED//*
-## *//Acessing database: [PROJECT YGGRDASIL](SubIndexes/Logs/finishedlogs/ArksLogs/ProjectYggdrasil.md)//*
+## *// ACCESS GRANTED //*
+## *// Acessing database: [PROJECT YGGRDASIL](SubIndexes/Logs/finishedlogs/ArksLogs/ProjectYggdrasil.md) //*
 
-#### *//The time and date of your access to this database has been logged and reported to the Intelligence Bureau//*
+#### *// The time and date of your access to this database has been logged and reported to the Intelligence Bureau. //*
 
 ----
 
@@ -70,23 +70,23 @@ Title: "Project Yggdrasil"
 
 ...
 
-## //All access records from this terminal from the past 24 hours have been successfully removed from the log. Intelligence Bureau records have been redacted.//
+## // All access records from this terminal from the past 24 hours have been successfully removed from the log. Intelligence Bureau records have been redacted. //
 
 ----
 
 > ##### -Logout
 
-## //Logging out.//
+## // Logging out. //
 
 *...*
 
-## //Welcome to ARKSNet: Global Information Database. Please enter a command to access files. If you need help, please enter [-help]//
+## // Welcome to ARKSNet: Global Information Database. Please enter a command to access files. If you need help, please enter [-help] //
 
 ----
 
 > ##### -Shutdown
 
-## //Shutting down//
+## // Shutting down //
 
-#### //Please have a wonderful day. Goodbye!//
+#### // Please have a wonderful day. Goodbye! //
 
