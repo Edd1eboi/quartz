@@ -62,7 +62,7 @@ Title: "Project Yggdrasil"
 
 *After the third re-organisation in AP 239, [Model 000 Alpha](SubIndexes/Characters/Yokai.md) was once again reassigned, this time under the Combat Bureau where she spent the remainder of her ARKS career, that is until all records of here whereabouts were lost around a decade later."*
 
-It is still unknown as of writing this document, of whether [Model 000 Alpha](SubIndexes/Characters/Yokai.md) is deceased, MIA, or for all intents and purposes, gone without a trace.
+*It is still unknown as of writing this document, of whether [Model 000 Alpha](SubIndexes/Characters/Yokai.md) is deceased, MIA, or for all intents and purposes, gone without a trace.*
 
 ## ==================================
 
