@@ -12,7 +12,7 @@ title: "Characters:"
 ---
 - **Unaffiliated *(that I know of, @ me if you want anything changed)***:
 	- [RO-C](SubIndexes/Characters/RO-C.md)
-	- Yokai (to be written)
+	- [Yokai](SubIndexes/Characters/Yokai.md)
 	- [Yumesaki](SubIndexes/Characters/Yumesaki.md) (to be written)
 	- Meteor Molly (to be written)
 	- Sophia Lorre (to be written)
