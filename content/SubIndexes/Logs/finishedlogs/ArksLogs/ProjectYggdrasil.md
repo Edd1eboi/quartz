@@ -2,7 +2,7 @@
 Title: "Project Yggdrasil"
 ---
 
-### *//Welcome to ARKSNet: Global Information Database. Please enter a command to access files. If you need help, please enter [-help]//*
+## *//Welcome to ARKSNet: Global Information Database. Please enter a command to access files. If you need help, please enter [-help]//*
 
 ------
 > ##### -Access [Project Yggdrasil](SubIndexes/Logs/finishedlogs/ArksLogs/ProjectYggdrasil.md)
@@ -12,7 +12,7 @@ Title: "Project Yggdrasil"
 > ##### -Access [Project Yggdrasil](SubIndexes/Logs/finishedlogs/ArksLogs/ProjectYggdrasil.md)
 
 #### *...*
-### *//You are attempting to access a security level [ABYSS] (TOP SECRET) database. Please enter the proper Security Credentials before proceeding.//*
+## *//You are attempting to access a security level [ABYSS] (TOP SECRET) database. Please enter the proper Security Credentials before proceeding.//*
 
 -----
 
@@ -22,7 +22,7 @@ Title: "Project Yggdrasil"
 *...*
 *...*
 
-### *//Attempting to impersonate a member of -[REDACTED]- is punishable by immediate termination, you have 30 seconds to enter the correct keyphrase before an ARKS task force is deployed to your location.//*
+## *//Attempting to impersonate a member of -[REDACTED]- is punishable by immediate termination, you have 30 seconds to enter the correct keyphrase before an ARKS task force is deployed to your location.//*
 
 ----
 
@@ -33,8 +33,8 @@ Title: "Project Yggdrasil"
 *...*
 *...*
 
-### *//ACCESS GRANTED//*
-### *//Acessing database: [PROJECT YGGRDASIL](SubIndexes/Logs/finishedlogs/ArksLogs/ProjectYggdrasil.md)//*
+## *//ACCESS GRANTED//*
+## *//Acessing database: [PROJECT YGGRDASIL](SubIndexes/Logs/finishedlogs/ArksLogs/ProjectYggdrasil.md)//*
 
 #### *//The time and date of your access to this database has been logged and reported to the Intelligence Bureau//*
 
@@ -44,7 +44,7 @@ Title: "Project Yggdrasil"
 
 *...*
 
-## ==================================
+#### ==================================
 
 - **ID:** SAIKAGITSUNE_YOKAI
 - **CLASS:** *YGGDRASIL ONSITE KNOWLEDGE ACQUISITION AND INTELLIGENCE CAST:* [**Y.O.K.A.I**.](SubIndexes/Characters/Yokai.md)
@@ -64,7 +64,7 @@ Title: "Project Yggdrasil"
 
 *It is still unknown as of writing this document, of whether [Model 000 Alpha](SubIndexes/Characters/Yokai.md) is deceased, MIA, or for all intents and purposes, gone without a trace.*
 
-## ==================================
+#### ==================================
 
 > ##### -Expunge ALL
 
@@ -76,7 +76,7 @@ Title: "Project Yggdrasil"
 
 > ##### -Logout
 
-### //Logging out.//
+## //Logging out.//
 
 *...*
 
