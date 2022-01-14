@@ -34,7 +34,7 @@ Title: "Project Yggdrasil"
 *...*
 
 ### *//ACCESS GRANTED//*
-### *//Acessing database: [PPROJECT YGGRDASIL](SubIndexes/Logs/finishedlogs/ArksLogs/ProjectYggdrasil.md)//*
+### *//Acessing database: [PROJECT YGGRDASIL](SubIndexes/Logs/finishedlogs/ArksLogs/ProjectYggdrasil.md)//*
 
 #### *//The time and date of your access to this database has been logged and reported to the Intelligence Bureau//*
 
