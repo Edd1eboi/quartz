@@ -34,3 +34,4 @@ Meteorns are people who've crashed onto [Halpha](SubIndexes/Places/Halpha.md), t
 - [Gaia Stellaria](SubIndexes/Characters/GaiaStellaria.md)
 - [Gogo Mes](SubIndexes/Characters/GogoMes.md)
 - [Lilit Lichenaes](SubIndexes/Characters/Lilit.md)
+- [Yokai](SubIndexes/Characters/Yokai.md)
