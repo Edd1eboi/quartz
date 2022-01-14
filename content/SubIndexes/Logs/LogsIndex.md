@@ -19,7 +19,7 @@ title: "RP-Logs"
 - *Expeditions:*
 	- [Desert Expedition](SubIndexes/Logs/finishedlogs/Expeditions/DesertExpedition.md) 
 		- [Stellar Fragments Study](SubIndexes/Logs/finishedlogs/Expeditions/StellarFragmentsPaper.md)
-- *ARKSNET*:
+- *ARKSNET:*
 	- [Project Yggdrasil](SubIndexes/Logs/finishedlogs/ArksLogs/ProjectYggdrasil.md)
 
 
