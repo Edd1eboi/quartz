@@ -3,4 +3,6 @@ title: "Submitted Logs:"
 ---
 
 ### *Feel free to send in 'valuable' submissions in *#log-submission* on the Discord!*
-- No logs submitted.
+
+- [**ProjectYggdrasil**](SubIndexes/Logs/finishedlogs/ArksLogs/ProjectYggdrasil.md)
+- ~~No logs submitted.~~
