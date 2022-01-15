@@ -1,5 +1,5 @@
 ---
-Title: "Project Yggdrasil"
+title: "Project Yggdrasil"
 ---
 
 ## *// Welcome to ARKSNet: Global Information Database. Please enter a command to access files. If you need help, please enter [-help] //*
