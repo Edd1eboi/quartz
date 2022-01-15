@@ -2,6 +2,7 @@
 title: "Yokai"
 ---
 
+![Yokai](https://raw.githubusercontent.com/Edd1ee/quartz/hugo/content/Images/Screenshots/Yokai.png?style=centerme)
 
 > ### Details:
 > - Name: Yokai Saikagitsune
