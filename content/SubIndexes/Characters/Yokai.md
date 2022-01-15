@@ -13,8 +13,8 @@ title: "Yokai"
 > - Occupation/Archetype: ARKS Operative
 > - Pronouns: She/Her
 
-### ~~Personality:~~
-TBD
+### Personality:
+For someone who lives and thrives in dangerous conditions due to her roots in the not too well known Yggdrasil project, Yokai's herself may seem a bit too laid back to anyone that knows her career path. Often times described as "easy going" and sometimes "akwardly quiet", Yokai prides herself with keeping a cool head and a calm demeanor to overcome any situation that may arise in the field.
 
-### ~~Background:~~
-TBD
+### Background:
+##### [*-ACCESS ARKSNET LOG-*](SubIndexes/Logs/finishedlogs/ArksLogs/ProjectYggdrasil.md)
