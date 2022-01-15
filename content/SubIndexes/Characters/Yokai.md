@@ -4,15 +4,16 @@ title: "Yokai"
 
 
 > ### Details:
-> - **Name**: Yokai Saikagitsune
-> - **Race**: CAST: *000 ALPHA*
-> - **Height**: TBD
-> - **Age**: TBD
-> - **Gender**: N/A
-> - **Occupation/Archetype:** TBD
-> - **Pronouns:** She/Her
+> - Name: Yokai Saikagitsune
+> - Race: Yggdrasil CAST: 000 ALPHA
+> - Height: 172 cm
+> - Age: 24+1000 due to timeskip
+> - Gender: N/A
+> - Occupation/Archetype: ARKS Operative
+> - Pronouns: She/Her
 
-### Personality:
+### ~~Personality:~~
+TBD
 
-
-### Background:
+### ~~Background:~~
+TBD

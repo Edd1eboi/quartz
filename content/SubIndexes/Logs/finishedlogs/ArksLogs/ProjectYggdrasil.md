@@ -60,7 +60,7 @@ Title: "Project Yggdrasil"
 
 *Following the start of the Darker Wars, Model 000 was reassigned to the Central Research Department, more commonly reffered to as VOID to undergo more experimental tests as well as modifications to better suit her needs as a soon to be frontline ARKS soldier. She would go on to lead a small force under the CRD to combat and sometimes capture Falz threats on the orders of VOID command.*
 
-*After the third re-organisation in AP 239, [Model 000 Alpha](SubIndexes/Characters/Yokai.md) was once again reassigned, this time under the Combat Bureau where she spent the remainder of her ARKS career, that is until all records of here whereabouts were lost around a decade later."*
+*After the third re-organisation in AP 239, [Model 000 Alpha](SubIndexes/Characters/Yokai.md) was once again reassigned, this time under the Combat Bureau where she spent the remainder of her ARKS career, that is until all records of her whereabouts were lost around a decade later."*
 
 *It is still unknown as of writing this document, of whether [Model 000 Alpha](SubIndexes/Characters/Yokai.md) is deceased, MIA, or for all intents and purposes, gone without a trace.*
 
